@@ -124,7 +124,7 @@ This is another one of the dividers that I don't believe is talked about enough.
 * Find local meetups or conferences in your area (Optional)
 * Listen to podcasts, watch videos, or read chat logs daily for immersion
 * Choose a speciality and give yourself 1-2 weeks on that topic to verify that you enjoy it
-* Make sure your plan matches type of job you're seeking
+* Make sure your plan matches the type of job you're seeking
 * Choose the level of public interaction that makes you comfortable
     * Projects are the highest priority
     * Have fun and be yourself on social media
