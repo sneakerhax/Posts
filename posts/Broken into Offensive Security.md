@@ -58,7 +58,7 @@ You have no experience and want structured learning. You decide a degree in comp
 
 **Scenario 3 - None**
 
-You do not like structured learning or classroom environments. However you have self taught yourself how to do hackthebox challenges. You are willing to put in the effort to find a job that will except your style of learning. You decide that building personal projects and posting them publicly will display your skills.
+You do not like structured learning or classroom environments. However you have taught yourself how to do hackthebox challenges. You are willing to put in the effort to find a job that will except your style of learning. You decide that building personal projects and posting them publicly will display your skills.
 
 **Scenario 4 - Alphabet Soup**
 
