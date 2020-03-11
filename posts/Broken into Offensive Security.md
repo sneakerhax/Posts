@@ -54,7 +54,7 @@ You have a few years of experience in operations and would like to transition to
 
 **Scenario 2 - Degree**
 
-You have no experience and want structured learning. You decide a degree in computer science will help you later decide what you want to specialize in and give you a solid programming background. You are going to supplement with personal research about offensive security and do hands on labs as you get your degree.
+You have no experience and want structured learning. You decide a degree in computer science will help you later decide what you want to specialize in and give you a solid programming background. You're going to supplement with personal research about offensive security and do hands on labs as you get your degree.
 
 **Scenario 3 - None**
 
