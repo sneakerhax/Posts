@@ -70,7 +70,7 @@ Dev vs Ops background seems to be the great divider in offensive security. Many 
 
 ### Meetups and Conferences
 
-I can never leave out meetups because I got my first job on a Red Team by meeting my previous boss at a meetup. Also attending conferences has allowed me to meet many interesting people. At first I highly recommended going to conferences and now I tend to believe that I learn very little from them. I admit this could be just me but I can't recommend this to be an essential part of your strategy. I will however say you should get out and meet people. You can certainly be much more successful than me at learning from conferences. Only advice is if you want to work in offensive security make sure you focus on the more technical conferences.
+I can't never leave out meetups because I got my first job on a Red Team by meeting my previous boss at a meetup. Also attending conferences has allowed me to meet many interesting people. At first I highly recommended going to conferences and now I tend to believe that I learn very little from them. I admit this could be just me but I can't recommend this to be an essential part of your strategy. I will however say you should get out and meet people. You can certainly be much more successful than me at learning from conferences. Only advice is if you want to work in offensive security make sure you focus on the more technical conferences.
 
 ### Practical vs Conceptual
 
