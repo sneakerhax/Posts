@@ -128,4 +128,4 @@ This is another one of the dividers that I don't believe is talked about enough.
 * Choose the level of public interaction that makes you comfortable
     * Projects are the highest priority
     * Have fun and be yourself on social media
-    * Don't get distracted by social media
+    * Seek friends not followers
