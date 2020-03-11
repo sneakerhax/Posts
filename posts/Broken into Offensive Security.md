@@ -74,7 +74,7 @@ I can't never leave out meetups because I got my first job on a Red Team by meet
 
 ### Practical vs Conceptual
 
-Balancing these two can be very important in your early stages. If you can perform hands on but get hindered by your lack of conceptual understanding thats not good. Even worse is having too much conceptual understanding but almost no time with your hands on the keyboard. I have experienced people who can hack their way through networks but lack the ability to create a user in Active Directory. I know people who can use Burpe like crazy but don't understand the 3 way TCP handshake. In my opinion it's best to dive right into the practical hands on stuff and fill in the conceptual understanding as you go. Make sure to expand on topics where you're confused or hindered by lack of understanding.
+Balancing these two can be very important in your early stages. If you can perform hands on but get hindered by your lack of conceptual understanding thats not good. Even worse is having too much conceptual understanding but almost no time with your hands on the keyboard. I have experienced people who can hack their way through networks but lack the ability to create a user in Active Directory. I know people who can use Burp to test the heck out of web apps but don't understand the 3 way TCP handshake. In my opinion it's best to dive right into the practical hands on stuff and fill in the conceptual understanding as you go. Make sure to expand on topics where you're confused or hindered by lack of understanding.
 
 ### Immersion
 
