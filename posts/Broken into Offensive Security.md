@@ -120,7 +120,7 @@ This is another one of the dividers that I don't believe is talked about enough.
 * Choose your educational path:
     * Take into consideration your background and years of experience
     * Make sure to always consider your goals
-    * Always use that path you feel works best for your learning style
+    * Always use the path you feel works best for your learning style
 * Find local meetups or conferences in your area (Optional)
 * Listen to podcasts, watch videos, or read chat logs daily for immersion
 * Choose a speciality and give yourself 1-2 weeks on that topic to verify that you enjoy it
