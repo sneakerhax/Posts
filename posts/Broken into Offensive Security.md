@@ -94,7 +94,7 @@ I do agree it is advantageous to work on your personal brand. However it's not n
 
 Projects are a great way for you to display your abilities. For example having Github projects shows you know how to use Github and displays your ability to program in one or many languages. Posting on a blog can show you have technical writing skills and display your ability to do a wide variety of things related to offensive security. These are great for interviews and separate you from other candidates in regards to level of passion for offensive security.
 
-You don't need to have social media to break into offensive security. Some of the best offensive security people I know have 0 social media. If you decide to do social media I recommend you seek genuine interactions and not followers. Share what you're interested in and steer clear of the drama if possible. You can make some great friends by being active on platforms such as Twitter. This can also however be a huge distraction to your goals so keep it in check.
+You don't need to have social media to break into offensive security. Some of the best offensive security people I know have no social media. If you decide to do social media I recommend you seek genuine interactions and not followers. Share what you're interested in and steer clear of the drama if possible. You can make some great friends by being active on platforms such as Twitter. This can also however be a huge distraction to your goals so keep it in check.
 
 ### Consulting vs Corporate
 
