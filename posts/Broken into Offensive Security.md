@@ -66,7 +66,7 @@ You have decided that having as many letters after your name as possible is esse
 
 ### Dev, Ops, and no background
 
-Dev vs Ops background seems to be the great divider in offensive security. Many people start doing this job with a dev background and many also start with an operations or sys admin background. It is also entirely possible to start with neither although in my opinion makes it much harder. Starting with no background leaves you grasping for straws with some of the most basic concepts. I find a much higher success rate with individuals who have been successful for a number of years at either Development or Operations. 
+Dev vs Ops background seems to be the great divider in offensive security. Many people start doing this job with a dev background while others start with an operations or sys admin background. It is also entirely possible to start with neither although in my opinion makes it much harder. Starting with no background leaves you grasping for straws with some of the most basic concepts. I find a much higher success rate with individuals who have been successful for a number of years at either Development or Operations. 
 
 However I still think it's entirely possible to prepare yourself for a job in offensive security with no prior technical experience. You will just need to work a bit harder to both grasp basic technical concepts and apply them quickly to offensive security. I recommend spending at least the first 3-6 months building a foundation in the technical concepts necessary to achieve the goals of your planned study path. For example if you plan to be a network penetration tester you should spend this time familarizing yourself with networking concepts, protocols, and setting up networks.
 
@@ -76,7 +76,7 @@ I can't ever leave out meetups because I got my first job on a Red Team by meeti
 
 ### Practical vs Conceptual
 
-Balancing these two can be very important in your early stages. You will fall short if you can perform hands on tasks but get hindered by your lack of conceptual understanding. Even worse is having too much conceptual understanding but almost no time with your hands on the keyboard. I have experienced people who can hack their way through networks but lack the ability to create a user in Active Directory. I know people who can use Burp Suite to test the heck out of web apps but don't understand the 3 way TCP handshake. In my opinion it's best to dive right into the practical hands skills as soon as possible. Then when you get to the point where you're having trouble understanding the topic seek more of the conceptual understanding necessary to see the bigger picture. Repeate this process to expand on topics where you're confused or hindered by lack of understanding.
+Balancing these two can be very important in your early stages. You will fall short if you can perform hands on tasks but get hindered by your lack of conceptual understanding. Even worse is having too much conceptual understanding but almost no time with your hands on the keyboard. I have experienced people who can hack their way through networks but lack the ability to create a user in Active Directory. I also know people who can use Burp Suite to test the heck out of web apps but don't understand the 3 way TCP handshake. In my opinion it's best to dive right into the practical hands skills as soon as possible. Then when you get to the point where you're having trouble understanding the topic seek more of the conceptual understanding necessary to see the bigger picture. Repeat this process to expand on topics where you're confused or hindered by lack of understanding.
 
 ### Immersion
 
@@ -100,7 +100,9 @@ You don't need to have social media to break into offensive security. Some of th
 
 ### Consulting vs Corporate
 
-This is another one of the dividers that I don't believe is talked about enough. These represent two very different types of jobs in offensive security. Let me break down some of the key differences:
+This is another one of the dividers I don't believe is talked about enough. These represent two very different types of jobs in offensive security. 
+
+Let me break down some of the key differences:
 
 **Consulting:**
 * Tends to involve traveling
