@@ -84,7 +84,7 @@ I don't hesitate to say this can be one of the most important parts of breaking 
 
 ### Specializing (What should I study?)
 
-At this point it is way too overwhelming to expect a new person attempting to migrate to offensive security to learn everything from before they arrived. At one point probably up until probably 2008 this may have been possible if you furiously studied to catch up. I have started to see a number of individuals far more successful by picking single topics and sticking to it. Off course along the way it's still important to learn something outside of your area of expertise. If somebody asked me right now where to start I would say start looking at what you want to specialize in. This will help you avoid getting overwhelmed and to review your options in bite size pieces you can actually handle.
+At this point it is way too overwhelming to expect a new person attempting to migrate to offensive security to learn everything from before they arrived. At one point probably up until 2008 this may have been possible if you furiously studied to catch up. I have started to see a number of individuals far more successful by picking single topics and sticking to it. Off course along the way it's still important to learn something outside of your area of expertise. If somebody asked me right now where to start I would say start looking at what you want to specialize in. This will help you avoid getting overwhelmed and to review your options in bite size pieces you can actually handle.
 
 ### Personal brand, Projects, Blog, and Social Media
 
