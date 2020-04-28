@@ -23,7 +23,7 @@ One of the first questions I receive is whether or not certifications and Degree
 
 There are a wide range of goals in offensive security such as:
 
-* Compromising computer systems, networks, applications
+* Compromising computer systems, networks, and applications
 * Bypassing security measures put in place to stop attackers
 * Evading detections from software and active threat hunters
 * Reaching objectives that are meaningful to the overall testing
@@ -76,7 +76,7 @@ I can't never leave out meetups because I got my first job on a Red Team by meet
 
 ### Practical vs Conceptual
 
-Balancing these two can be very important in your early stages. If you can perform hands on but get hindered by your lack of conceptual understanding thats not good. Even worse is having too much conceptual understanding but almost no time with your hands on the keyboard. I have experienced people who can hack their way through networks but lack the ability to create a user in Active Directory. I know people who can use Burp to test the heck out of web apps but don't understand the 3 way TCP handshake. In my opinion it's best to dive right into the practical hands on stuff and fill in the conceptual understanding as you go. Make sure to expand on topics where you're confused or hindered by lack of understanding.
+Balancing these two can be very important in your early stages. It's not good if you can perform hands on tasks but get hindered by your lack of conceptual understanding when it comes to a deeper of understanding of what you're testing. Even worse is having too much conceptual understanding but almost no time with your hands on the keyboard. I have experienced people who can hack their way through networks but lack the ability to create a user in Active Directory. I know people who can use Burp to test the heck out of web apps but don't understand the 3 way TCP handshake. In my opinion it's best to dive right into the practical hands on stuff and fill in the conceptual understanding as you go. Make sure to expand on topics where you're confused or hindered by lack of understanding.
 
 ### Immersion
 
