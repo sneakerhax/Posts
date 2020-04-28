@@ -66,13 +66,13 @@ You have decided that having as many letters after your name as possible is esse
 
 ### Dev, Ops, and no background
 
-Dev vs Ops background seems to be the great divider in offensive security. Many people start doing this job with a dev background and many also start with an operations or sys admin background. It is also entirely possible to start with neither although in my opinion makes it much harder. Starting with no background leaves you grasping for straws on some of the most basic concepts. I find a much higher success rate with individuals who have been successful for a number of years at either Development or Operations. 
+Dev vs Ops background seems to be the great divider in offensive security. Many people start doing this job with a dev background and many also start with an operations or sys admin background. It is also entirely possible to start with neither although in my opinion makes it much harder. Starting with no background leaves you grasping for straws with some of the most basic concepts. I find a much higher success rate with individuals who have been successful for a number of years at either Development or Operations. 
 
 However I still think it's entirely possible to prepare yourself for a job in offensive security with no prior technical experience. You will just need to work a bit harder to both grasp basic technical concepts and apply them quickly to offensive security. I recommend spending at least the first 3-6 months building a foundation in the technical concepts necessary to achieve the goals of your planned study path. For example if you plan to be a network penetration tester you should spend this time familarizing yourself with networking concepts, protocols, and setting up networks.
 
 ### Meetups and Conferences
 
-I can't never leave out meetups because I got my first job on a Red Team by meeting my previous boss at a meetup. Also attending conferences has allowed me to meet many interesting people. At first I highly recommended going to conferences and now I tend to believe that I learn very little from them. I admit this could be just me but I can't recommend this to be an essential part of your strategy. I will however say you should get out and meet people. You can certainly be much more successful than me at learning from conferences. Only advice is if you want to work in offensive security make sure you focus on the more technical conferences.
+I can't ever leave out meetups because I got my first job on a Red Team by meeting my previous boss at a meetup. Also attending conferences has allowed me to meet many interesting people. At first I highly recommended going to conferences and now I tend to believe that I learn very little from them. I admit this could be just me but I can't recommend this to be an essential part of your strategy. I will however say you should get out and meet people. You can certainly be much more successful than me at learning from conferences. Only advice is if you want to work in offensive security make sure you focus on the more technical conferences.
 
 ### Practical vs Conceptual
 
