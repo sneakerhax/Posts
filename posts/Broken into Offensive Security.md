@@ -62,7 +62,7 @@ You do not like structured learning or classroom environments. However you have 
 
 **Scenario 4 - Alphabet Soup**
 
-You have decided that having as many letters after your name as possible is essential to your success. You take all the expensive practice tests and nail the multiple choice exams that are nothing like the actual work you will do in offensive security. You've done it <insert_name> CISSP, CISM, Security+, Network+...You know what throw "Security Expert" in there...you've earned it. You make sure your terminal is green and you can't figure out why everybody keeps calling you Joey...
+You have decided that having as many letters after your name as possible is essential to your success. You take all the expensive practice tests and nail the multiple choice exams that are nothing like the actual work you will do in offensive security. You've done it <insert_name> CISSP, CISM, Security+, Network+...You know what throw "Security Expert" in there...you've earned it. You make sure your terminal has matrix green text and you can't figure out why everybody keeps calling you Joey...
 
 ### Dev, Ops, and no background
 
