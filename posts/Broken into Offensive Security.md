@@ -19,7 +19,7 @@ I believe at this point in the timeline of security careers it's particular impo
 
 ### Certifications, Education, Alphabet Soup
 
-One of the first questions I receive is whether or not certifications and Degrees are necessary. The answer to "are they necessary?" is no with myself as proof. However it's more important to focus on the goal than the paper you receive. 
+One of the first questions I get asked is whether or not certifications and/or degrees are necessary. The answer to "are they necessary?" is no with myself as proof. However it's more important to focus on the goal not the paper you receive. 
 
 There are a wide range of goals in offensive security such as:
 
