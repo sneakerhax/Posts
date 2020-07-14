@@ -42,7 +42,7 @@ Can be similarly helpful in getting past HR screening and in some job cases esse
 
 **Alphabet Soup**
 
-A person with a large number of certificates and qualifications after their name or in their social media bio. There is most definitely a way to achieve all of these certifications and still be very unqualified to work in offensive security. You should not focus on the amount of certifications and qualifications you have and instead focus on the amount of hands on related skills you can bring into the job. Also frankly I've never met a person who both thought having all these certifications after their name was important and was an exceptionally good offensive security person...just saying.
+A person with a large number of certificates and qualifications after their name or in their social media bio. There is most definitely a way to achieve all of these certifications and still be very unqualified to work in offensive security. You should not focus on the amount of certifications and qualifications you have and instead focus on the amount of hands on related skills you can bring to the job. Also frankly I've never met a person who both thought having all these certifications after their name was important and was an exceptionally good offensive security person...just saying.
 
 The key take away here is to choose the combination of educational paths that will help you reach your goal. At the end of the day you will be the one required to have the skills necessary to succeed.
 
@@ -66,7 +66,7 @@ You have decided that having as many letters after your name as possible is esse
 
 ### Dev, Ops, and no background
 
-Dev vs Ops background seems to be the great divider in offensive security. Many people start doing this job with a dev background while others start with an operations or sys admin background. It is also entirely possible to start with neither although in my opinion makes it much harder. Starting with no background leaves you grasping for straws with some of the most basic concepts. I find a much higher success rate with individuals who have been successful for a number of years at either Development or Operations. 
+Dev vs Ops background seems to be the great divider in offensive security. Many people start doing this job with a dev background while others start with an operations (sys admin) background. It is also entirely possible to start with neither although in my opinion makes it much harder. Starting with no background leaves you grasping for straws with some of the most basic concepts. I find a much higher success rate with individuals who have been successful for a number of years at either Development or Operations. 
 
 However I still think it's entirely possible to prepare yourself for a job in offensive security with no prior technical experience. You will just need to work a bit harder to both grasp basic technical concepts and apply them quickly to offensive security. I recommend spending at least the first 3-6 months building a foundation in the technical concepts necessary to achieve the goals of your planned study path. For example if you plan to be a network penetration tester you should spend this time familarizing yourself with networking concepts, protocols, and setting up networks.
 
@@ -116,7 +116,7 @@ Let me break down some of the key differences:
 * Ability to work in teams more often
 * Frequently asked to show "impact"
 * Harder to publish public content on behalf of your company
-* More interaction with your customers
+* More direct interaction with your customers
 
 ### Putting it all together
 
