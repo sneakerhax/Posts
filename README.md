@@ -1,7 +1,7 @@
 # Posts
 Posts about different offensive security topics
 
- [![Twitter](https://img.shields.io/badge/twitter-sneakerhax-38A1F3?logo=twitter)](https://twitter.com/sneakerhax) [![Discord](https://img.shields.io/badge/discord-sneakerhax-7289DA?logo=discord)](https://discordapp.com/invite/wpxpYM3)
+ [![Twitter](https://img.shields.io/badge/twitter-sneakerhax-38A1F3?logo=twitter)](https://twitter.com/sneakerhax)
  
  ## Posts
  * [Broken into Offensive Security](https://github.com/sneakerhax/Posts/blob/main/posts/Broken%20into%20Offensive%20Security.md) - A post about breaking into the field of Offensive Security and flawed advice
