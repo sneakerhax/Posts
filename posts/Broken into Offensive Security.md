@@ -118,7 +118,7 @@ Let me break down some of the key differences:
 * Harder to publish public content on behalf of your company
 * More direct/constant interaction with your customers
 
-### Putting it all together
+## Putting it all together
 
 * Do you want to work in offensive security? If yes proceed
 * Choose your educational path:
