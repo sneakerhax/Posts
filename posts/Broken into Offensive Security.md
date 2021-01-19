@@ -2,7 +2,7 @@
 
 I feel a lot of advice about breaking into offensive security is broken. I also think that at this point the advice for breaking into security is different then the advice you give somebody hoping to break into offensive security. My advice has changed pretty drastically over the years and is based on my experience with breaking into offensive security myself with no degree, certifications, or on paper experience. Additionally this post is the result of me mentoring countless people.
 
-### Types of broken advice
+## Types of broken advice
 
 Broken advice comes in all types but some are particularly counter intuitive to the person receiving the advice. 
 
@@ -13,11 +13,11 @@ Here is a list of things I don't think you should do:
 * Failing to find out what learning style and path works best for them
 * Telling people to learn everything there is to know back to 199x
 
-### Differences between security and offensive security
+## Differences between security and offensive security
 
 I believe at this point in the timeline of security careers it's particular important to separate the advice given to an individual wanting to break into security and offensive security. The necessary steps, skills, and motivations can be vastly different. Security is an extremely broad topic and offensive security applies specifically to breaking into computers, networks, and applications using hacking techniques in order to report the issues.
 
-### Certifications, Education, Alphabet Soup
+## Certifications, Education, Alphabet Soup
 
 One of the first questions I get asked is whether or not certifications and/or degrees are necessary. The answer to "are they necessary?" is no with myself as proof. However it's more important to focus on the goal not the paper you receive. 
 
@@ -64,29 +64,29 @@ You do not like structured learning or classroom environments. However you have 
 
 You have decided that having as many letters after your name as possible is essential to your success. You take all the expensive practice tests and nail the multiple choice exams that are nothing like the actual work you will do in offensive security. You've done it <insert_name> CISSP, CISM, Security+, Network+...You know what throw "Security Expert" in there...you've earned it. You make sure your terminal has matrix green text and you can't figure out why everybody keeps calling you Joey...
 
-### Dev, Ops, and no background
+## Dev, Ops, and no background
 
 Dev vs Ops background seems to be the great divider in offensive security. Many people start doing this job with a dev background while others start with an operations (systems adminstration) background. It is also entirely possible to start with neither although in my opinion makes it much harder. Starting with no background leaves you grasping for straws with some of the most basic concepts. I find a much higher success rate with individuals who have been successful for a number of years at either Development or Operations. 
 
 However I still think it's entirely possible to prepare yourself for a job in offensive security with no prior technical experience. I do however think it will be necessary to work a bit harder to both grasp basic technical concepts and apply them quickly to offensive security. I recommend spending at least the first 3-6 months building a foundation in the technical concepts necessary to achieve the goals of your planned study path. For example if you plan to be a network penetration tester you should spend this time familarizing yourself with networking concepts, protocols, and setting up networks.
 
-### Meetups and Conferences
+## Meetups and Conferences
 
 I can't ever leave out meetups because I got my first job on a Red Team by meeting my previous boss at a meetup. Also attending conferences has allowed me to meet many interesting people. At first I highly recommended going to conferences and now I tend to believe that I learn very little from them. I admit this could be just me but I can't recommend this to be an essential part of your strategy. I will however say you should get out and meet people. You can certainly be much more successful than me at learning from conferences. My only advice is if you want to work in offensive security make sure you focus on the more technical conferences.
 
-### Practical vs Conceptual
+## Practical vs Conceptual
 
 Balancing these two can be very important in the early stages of learning. You will fall short if you can perform hands-on tasks but get hindered by your lack of conceptual understanding. Even worse is having too much conceptual understanding but almost no time with your hands-on the keyboard. I have experienced people who can hack their way through networks but lack the ability to create a user in Active Directory. I also know people who can use Burp Suite to test the heck out of web apps but don't understand the 3 way TCP handshake. In my opinion it's best to dive right into the practical hands-on skills as soon as possible. Then when you get to the point where you're having trouble understanding the topic seek more of the conceptual understanding necessary to see the bigger picture. Repeat this process to expand on topics where you're confused or hindered by lack of understanding.
 
-### Immersion
+## Immersion
 
 I don't hesitate to say this can be one of the most important parts of breaking into offensive security. Immersion is putting yourself in a position frequently to take in concepts, terms, and ideas related to the topic. This can be listening to podcasts, watching videos, and reading chat logs. Over time this will build up your understanding of the topic as you both affirm knowledge and get introduced to a diverse set of ideas about the topic.
 
-### Specializing (What should I study?)
+## Specializing (What should I study?)
 
 At this point it's far too overwhelming to expect a new person attempting to migrate into offensive security to learn everything from before they arrived. At one point probably up until 2008 this may have been possible if you furiously studied to catch up. I have started to see a number of individuals far more successful by picking single topics and sticking to it. Of course along the way it's still important to learn something outside of your area of expertise. If somebody asked me right now where to start I would say start looking at what you want to specialize in. This will help you avoid getting overwhelmed and enable you to review your options in bite sized pieces you can reasonably handle.
 
-### Personal brand, Projects, Blog, and Social Media
+## Personal brand, Projects, Blog, and Social Media
 
 Once you have made the decision to break into offensive security you may ask is it necessary to have a public profile. You probably see others with Twitter accounts that have 50k followers and think well this must be the way. 
 
@@ -98,7 +98,7 @@ Projects are a great way for you to display your abilities. For example having G
 
 You don't need to have social media to break into offensive security. Some of the best offensive security people I know avoid it completely. If you decide to do social media I recommend you seek genuine interactions and not followers. Share what you're interested in and steer clear of the drama if possible. You can make some great friends by being active on platforms such as Twitter. This can also however be a huge distraction to your goals so keep it in check.
 
-### Consulting vs Corporate
+## Consulting vs Corporate
 
 This is another one of the dividers I don't believe is talked about enough. These represent two very different types of jobs in offensive security. 
 
