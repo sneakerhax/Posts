@@ -88,7 +88,7 @@ At this point it's far too overwhelming to expect a new person attempting to mig
 
 ## Personal brand, Projects, Blog, and Social Media
 
-Once you have made the decision to break into offensive security you may ask is it necessary to have a public profile. You probably see others with Twitter accounts that have 50k followers and think well this must be the way. 
+Once you have made the decision to break into offensive security you may ask "is it necessary to have a public profile?". You probably see others with Twitter accounts that have 50k followers and think well this must be the way. 
 
 Let's break this down...
 
