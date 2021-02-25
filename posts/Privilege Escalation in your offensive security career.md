@@ -20,14 +20,14 @@ After limiting scope to topics that I was either actively engaged in or ones nee
 
 ## Focus on 1 maybe 2 areas of related focus
 
-Admittedly this was a very hard thing to achieve because I was very much and still am a generalist. This is the direct result of systems administration type work where you're required to know a little bit about a lot of things. However as time went on a started to realize the downfall of context switching non stop. I ultimately found that 2 - 4 weeks on the same topic allowed me to get the depth I needed. This also allowed me to do the hands on activies required to solidify and document the knowledge. Once I got this process down I was able to pick up a secondary topics and long as they were related. I'm still exploring how far I can take this process but I've seen significant improvement in retaining knowledge and applying to my everyday work.
+Admittedly this was a very hard thing to achieve because I was very much and still am a generalist. This is the direct result of systems administration type work where you're required to know a little bit about a lot of things. However as time went on I started to realize the downfall of context switching non stop. I ultimately found that 2 - 4 weeks on the same topic allowed me to get the depth I needed. This also allowed me to do the hands on activities required to solidify and document the knowledge. Once I got this process down I was able to simultaneously study a secondary topics. I'm still exploring how far I can take this process but I've seen significant improvement in retaining knowledge and applying to my everyday work.
 
 * Focus on the same topic for at least 2 - 4 weeks
 * Avoid rapid context switching
 
 ## Balance to avoid burnout
 
-Originally my way of doing practically all studying was constant and unorganized. I was worried I couldn't get enough done if I wasn't switched on all the time. However I began to notice that if I was able to spend a short amount of dedicated time per week on a topic I would become much more proficient. I began to plan my work for only a few times and work and discovered I was more effective then I was when constantly in study mode. How is this possible? because I was able to let my mind rest during the times I wasn't focused and had a clear understanding of my goals when I did plan to study. I was also able to plan extended breaks without the constant anxiety of going back to my never ending work study.
+Originally my way of doing practically all studying was constant and unorganized. I was worried I couldn't get enough done if I wasn't switched on all the time. However I began to notice that if I was able to spend a short amount of dedicated time per week on a topic I would become much more proficient. I began studying only a few planned times per week and discovered I was more effective then when I was constantly in study mode. How is this possible? because I was able to let my mind rest during the times I wasn't focused and had a clear understanding of my goals when I did plan to study. I was also able to plan extended breaks without the constant anxiety of going back to my never ending study patterns.
 
 * plan work
 * plan breaks etc
