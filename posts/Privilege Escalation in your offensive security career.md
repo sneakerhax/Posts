@@ -12,7 +12,7 @@ There was a time where I would read any content that contained even one of a lon
 
 ## Study to meet objectives...or for pure interest
 
-After limiting scope to topics that I was either actively engaged in or needed improvment in I realized I still lacked direction. It's very important to understand the reason why you're studying a topic. Are you meeting an objective? or just constantly consuming without a goal? It's fine to learn about something for pure interest but to be a more skilled penetration tester it's likely that you will eventually have to be intentional about skills improvement. For me solving this problem occured when I created a study board for myself where each item measures to an objective I'm trying to achieve. Sure I still get sidetracked by really interesting topics but by making sure at least 80% of your studying has an objective in mind you can improve significantly faster.
+After limiting scope to topics that I was either actively engaged in or ones needing improvment I realized I still lacked direction. It's very important to understand the reason why you're studying a topic. Are you meeting an objective? or just constantly consuming without a goal? It's fine to learn about something for pure interest but to be a more skilled penetration tester it's likely that you will eventually have to be intentional about skills improvement. For me solving this problem occured when I created a study board for myself where each item measures to an objective I'm trying to achieve. Sure I still get sidetracked by really interesting topics but by making sure at least 80% of your studying has an objective in mind you can improve significantly faster.
 
 * Plan for objectives not every possible scenario
 * Don't prepare for nothing
@@ -20,7 +20,7 @@ After limiting scope to topics that I was either actively engaged in or needed i
 
 ## Focus on 1 maybe 2 areas of related focus
 
-Admittedly this was a very hard thing to achieve because I was very much and still am a generalist. This is the direct result of systems administration type work where you are required to know a little bit about a lot of things. However as time went on a started to realize the downfall context switching non stop. I ultimately found that 2 - 4 weeks on the same topic allowed me to get the depth I needed and do the hands on activies required to solidify and document the knowledge. Once I got this process down I was able to pick up secondary topics and long as they were related. I'm still exploring how far I can take this process but I've seen significant improvement in retaining knowledge and applying to my everyday work.
+Admittedly this was a very hard thing to achieve because I was very much and still am a generalist. This is the direct result of systems administration type work where you're required to know a little bit about a lot of things. However as time went on a started to realize the downfall of context switching non stop. I ultimately found that 2 - 4 weeks on the same topic allowed me to get the depth I needed. This also allowed me to do the hands on activies required to solidify and document the knowledge. Once I got this process down I was able to pick up a secondary topics and long as they were related. I'm still exploring how far I can take this process but I've seen significant improvement in retaining knowledge and applying to my everyday work.
 
 * Focus on the same topic for at least 2 - 4 weeks
 * Avoid rapid context switching
