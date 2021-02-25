@@ -34,19 +34,21 @@ Originally my way of doing practically all studying was constant and unorganized
 
 ## Be X person and let others be Y person
 
-In the past few years offensive security has truly grown. It's no longer feasible to be knowledgeable in every topic. It's perfectly fine to be the go to person for one topic and let another person be the go to person for another topic. This was truly difficult for me to learn. However the more advanced your team becomes the more clear this fact shows. If you want to advance your career you will have be proficient in at least one topic. The one person army mentality can become a big hinderence later in career as you discover you're pretty knowledgeable on a lot of topics but not enough to be realied upon 100% for all support in that area.
+In the past few years offensive security has truly grown. It's no longer feasible to be knowledgeable in every topic. It's perfectly fine to be the go to person for one topic and let another person be the go to person for another topic. This was truly difficult for me to learn. However the more advanced your team becomes the more this becomes a factor. If you want to advance your career you will have be proficient in at least one topic. The one person army mentality can become a big hinderence later in your career as you discover you're pretty knowledgeable on a lot of topics but not enough to be realied upon 100% for all support in that area.
 
 * Let go of the "one person army" mentality
 
 ## Follow your own path
 
-It can be very easy to look at all the awesome research you see online and believe that cumulatively this is how your career has to go. This was a limiting mindset for me early on. I tried many times to fit into the mold set forth by the offensive security community but I kept falling short as others paths didn't generate the same passion for me. I truly discovered the motivation and fulfillment I wanted when I decided what I was going to bring to the offensive security field.
+It can be very easy to look at all the awesome research you see online and believe that cumulatively this is how your career has to go. This was a limiting mindset for me early on. I tried many times to fit into the mold set forth by the offensive security community but I kept falling short as others paths didn't generate the same passion for me. I truly discovered the motivation and fulfillment I wanted when I decided what I was going to bring to the offensive security field. Letting go of what I felt I needed to be and focusing on what I wanted to be truly helped me find what path I wanted to take in my career.
 
 * Follow your own path in study
+* Let go of what you think you need be
+* Become who you want to be
 
 ## Embrace where you're right now
 
-There was a time when I had a very strong opinion about what I thought I should be doing as a Red Teamer. This caused me to neglect the opportunties I had to leverage what was right in front of me for learning purposes. Frequently while employed we have access to technologies, training, and people that will make us much more well rounded and in turn better penetration testers. If we fight to hard to meet the ideal vision of the goals we set for ourselves we might miss these opportunities. My advice is to fully embrace the learning opportunites right in front of you. Don't let the idea of your perfect job hold you back from learning everything you possibly can from the current role you're in.
+There was a time when I had a very strong opinion about what I thought I should be doing as a Red Teamer. This caused me to neglect the opportunties I had to leverage what was right in front of me for learning purposes. Frequently while employed we have access to technologies, training, and people that will make us much more well rounded and in turn better penetration testers. While I was wasting time fighting what I thought shouldn't be part of my job I missed opportunities to learn. My advice is to fully embrace the learning opportunites right in front of you. Don't let the idea of your perfect job hold you back from learning everything you possibly can from the current role you're in.
 
 * Leverage what's in front of you
 
