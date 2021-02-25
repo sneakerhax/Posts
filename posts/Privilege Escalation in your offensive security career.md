@@ -1,4 +1,4 @@
-# Privilege Escalation in your offensive security career
+# Privilege Escalation in your Offensive Security Career
 
 If you go to any search engine and type in "breaking into offensive security" or "how to get started in offensive security" you will find pages and pages of results. however you almost never see articles about improving your skills once you are employed in offensive security. For me I felt that I was stuck at intermediate for a many years. I wasn't a bad penetration tester but I was lacking some habits and direction that would allow me to advance any further. Over the past couple of years I've learned some techniques that have greatly improved my personal and professional development. These can also help you balance your life, avoid burnout, and overall get more done in less time.
 
