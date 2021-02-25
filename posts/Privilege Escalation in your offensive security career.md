@@ -27,7 +27,7 @@ Admittedly this was a very hard thing to achieve because I was very much and sti
 
 ## Balance to avoid burnout
 
-Originally my way of doing practically all studying was constant and unorganized. I was worried I couldn't get enough done if wasn't switched on all the time. However I began to notice that if I was able to spend a short amount of dedicated time per week on a topic I would become much more proficient. I began to plan my work for only a few times and work and discovered I was more effective then I was when constantly in study mode. How is this possible? because I was able to let my mind rest during the times I wasn't focused and had a clear understanding of my goals when I did plan to study. I was also able to plan extended breaks without the constant anxiety of going back to my never ending work study.
+Originally my way of doing practically all studying was constant and unorganized. I was worried I couldn't get enough done if I wasn't switched on all the time. However I began to notice that if I was able to spend a short amount of dedicated time per week on a topic I would become much more proficient. I began to plan my work for only a few times and work and discovered I was more effective then I was when constantly in study mode. How is this possible? because I was able to let my mind rest during the times I wasn't focused and had a clear understanding of my goals when I did plan to study. I was also able to plan extended breaks without the constant anxiety of going back to my never ending work study.
 
 * plan work
 * plan breaks etc
@@ -40,19 +40,19 @@ In the past few years offensive security has truly grown. It's no longer feasibl
 
 ## Follow your own path
 
-It can be very easy to look at all the awesome research you see online and believe that cumulatively this is how your career has to go. This was a limiting mindset for me early on. I tried many time to fit into the mold set forth by the offensive security community but I kept falling short as others paths didn't generate the same passion for me. I truly discovered the motivation and fulfillment I wanted when I decided what I was going to bring to the offensive security field.
+It can be very easy to look at all the awesome research you see online and believe that cumulatively this is how your career has to go. This was a limiting mindset for me early on. I tried many times to fit into the mold set forth by the offensive security community but I kept falling short as others paths didn't generate the same passion for me. I truly discovered the motivation and fulfillment I wanted when I decided what I was going to bring to the offensive security field.
 
 * Follow your own path in study
 
 ## Embrace where you're right now
 
-There was a time when I had a very strong opinion about what I though I should be doing as a Red Teamer. This caused me to neglect the opportunties I had to leverage what was right in front of me for learning purposes. Frequently while employed we have access to technologies, training, and people that will make us much more well rounded and in turn better penetration testers. If we fight to hard to meet the ideal vision of the goals we set for ourselves we might miss these opportunities. My advice is to fully embrace the learning opportunites right in front of you. Don't let the idea of your perfect job hold you back from learning everything you possibly can from teh current role you're in.
+There was a time when I had a very strong opinion about what I thought I should be doing as a Red Teamer. This caused me to neglect the opportunties I had to leverage what was right in front of me for learning purposes. Frequently while employed we have access to technologies, training, and people that will make us much more well rounded and in turn better penetration testers. If we fight to hard to meet the ideal vision of the goals we set for ourselves we might miss these opportunities. My advice is to fully embrace the learning opportunites right in front of you. Don't let the idea of your perfect job hold you back from learning everything you possibly can from the current role you're in.
 
 * Leverage what's in front of you
 
 ## Formal vs informal study
 
-I have always been a very informal studier. Evertime I wanted to learn a new topic I searched the internet for every article, video, and Tweet I felt would help me. I completely underestimated the value of taking a course or reading a book. For a small cost I could save myself many hours of collection time. I also found this aloud me to plan studying much easier as the information was measured and ordered. You should always balance the positive and negatives of each but in most cases I'm starting to find that with a busy schedule seeking formal content is much more suited for improving myself.
+I have always been a very informal studier. Evertime I wanted to learn a new topic I searched the internet for every blog post, video, and Tweet I felt would help me. I completely underestimated the value of taking a course or reading a book. For a small cost I could save myself many hours of collection time. I also found this allowed me to plan studying much easier as the information was measured and ordered. You should always balance the positive and negatives of each but in most cases I'm starting to find that with a busy schedule seeking formal content is much more suited for improving myself.
 
 * Having everything collected in one place (formal)
 * Collecting the data on your own (Informal)
