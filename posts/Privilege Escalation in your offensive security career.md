@@ -1,10 +1,10 @@
 # Privilege Escalation in your Offensive Security Career
 
-If you go to any search engine and type in "breaking into offensive security" or "how to get started in offensive security" you will find pages and pages of results. However you almost never see articles about improving your skills once you're employed in offensive security. For me I felt that I was stuck at intermediate for many years. I wasn't a bad penetration tester but I was lacking some habits and direction that would allow me to advance any further. Over the past couple of years I've learned some techniques that have greatly improved my personal and professional development. These can also help you balance your life, avoid burnout, and overall get more done in less time.
+If you go to any search engine and type in "breaking into offensive security" or "how to get started in offensive security" you will find pages and pages of results. However you almost never see articles about improving your skills once you're employed in offensive security. For me I felt that I was stuck at intermediate for many years. I wasn't a bad penetration tester but I was lacking some habits and direction that would allow me to advance any further. Over the past couple of years I've learned some techniques that have greatly improved my personal and professional development. These can also help you balance your life, avoid burnout, and overall help you get more done in less time.
 
 ## Scope limiting
 
-There was a time where I would read any content that contained even one of a long list of words related to offensive security. This became a damaging habit as offensive security became a vast and extensive topic. I utimately realized that I was consuming a never ending list of content while also simultaneously hoarding information I would never use. Bottom line is 90% of what I read was mentally thrown out before I had a chance to use it. I was esentially operating in a FIFO (First in First out) pattern that wasn't helping me improve. This was a bad habit linked to the fact that no penetetration tester ever wants to miss an issue. Therefore constant consumption of new techniques must be the answer right? Wrong I discoverd this was a bad and truly pointless habit. Limiting the scope of what I consumed through blog posts, videos, and Twitter turned out to be the fix.
+There was a time where I would read any content that contained even one of a long list of words related to offensive security. This became a damaging habit as offensive security became a vast and extensive topic. I ultimately realized that I was consuming a never ending list of content while also simultaneously hoarding information I would never use. Bottom line is 90% of what I read was mentally thrown out before I had a chance to use it. I was esentially operating in a FIFO (First in First out) pattern that wasn't helping me improve. This was a bad habit linked to the fact that no penetetration tester ever wants to miss an issue. Therefore constant consumption of new techniques must be the answer right? Wrong I discoverd this was a bad and truly pointless habit. Limiting the scope of what I consumed through blog posts, videos, and Twitter turned out to be the fix.
 
 * 90% of what you consume gets mentally thrown out
 * Avoid getting side tracked by offensive security words
@@ -34,13 +34,14 @@ Originally my way of doing practically all studying was constant and unorganized
 
 ## Be X person and let others be Y person
 
-In the past few years offensive security has truly grown. It's no longer feasible to be knowledgeable in every topic. It's perfectly fine to be the go to person for one topic and let another person be the go to person for another topic. This was truly difficult for me to learn. However the more advanced your team becomes the more this becomes a factor. If you want to advance your career you will have be proficient in at least one topic. The one person army mentality can become a big hinderence later in your career as you discover you're pretty knowledgeable on a lot of topics but not enough to be realied upon 100% for all support in that area.
+In the past few years offensive security has truly grown. It's no longer feasible to be knowledgeable in every topic. It's perfectly fine to be the go to person for one topic and let another person be the go to person for another topic. This was truly difficult for me to learn. However the more advanced your team becomes the more this becomes a factor. If you want to advance your career you will have to be proficient in at least one topic. The one person army mentality can become a big hinderence later in your career as you discover you're pretty knowledgeable on a lot of topics but not enough to be realied upon 100% for all support in that area.
 
 * Let go of the "one person army" mentality
+* Understand clearly what role you plan to own on your team
 
 ## Follow your own path
 
-It can be very easy to look at all the awesome research you see online and believe that cumulatively this is how your career has to go. This was a limiting mindset for me early on. I tried many times to fit into the mold set forth by the offensive security community but I kept falling short as others paths didn't generate the same passion for me. I truly discovered the motivation and fulfillment I wanted when I decided what I was going to bring to the offensive security field. Letting go of what I felt I needed to be and focusing on what I wanted to be truly helped me find what path I wanted to take in my career.
+It can be very easy to look at all the awesome research you see online and believe that cumulatively this is how your career has to go. This was a limiting mindset for me early on. I tried many times to fit into the mold set forth by the offensive security community but I kept falling short as others paths didn't generate the same amount of passion for me. I truly discovered the motivation and fulfillment I was looking for when I chose my own path. This allowed me to decide myself what I was going to bring to the offensive security field. Letting go of comparing myself to others and the industry as a whole really helped me solve this problem.
 
 * Follow your own path in study
 * Let go of what you think you need be
@@ -54,7 +55,7 @@ There was a time when I had a very strong opinion about what I thought I should 
 
 ## Formal vs informal study
 
-I have always been a very informal studier. Evertime I wanted to learn a new topic I searched the internet for every blog post, video, and Tweet I felt would help me. I completely underestimated the value of taking a course or reading a book. For a small cost I could save myself many hours of collection time. I also found this allowed me to plan studying much easier as the information was measured and ordered. You should always balance the positive and negatives of each but in most cases I'm starting to find that with a busy schedule seeking formal content is much more suited for improving myself.
+I have always been a very informal studier. Evertime I wanted to learn a new topic I searched the internet for every blog post, video, and Tweet I felt would help. I completely underestimated the value of taking a course or reading a book. For a small cost I could save myself many hours of collection time. I also found this allowed me to plan studying much easier as the information was measured and ordered. You should always balance the positive and negatives of each but in most cases I'm starting to find that with a busy schedule seeking formal content is much more suited for improving myself.
 
 * Having everything collected in one place (formal)
 * Collecting the data on your own (Informal)
