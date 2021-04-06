@@ -46,7 +46,7 @@ A person with a large number of certificates and qualifications after their name
 
 The key take away here is to choose the combination of educational paths that will help you reach your goal. At the end of the day you will be the one required to have the skills necessary to succeed.
 
-Here are a few profiles that can give you examples:
+Here are a few scenarios with specific examples:
 
 **Scenario 1 - Certification/s**
 
