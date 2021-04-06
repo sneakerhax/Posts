@@ -9,7 +9,7 @@ Broken advice comes in all types but some are particularly counter intuitive to 
 Here is a list of things I don't think you should do:
 
 * Overwhelm people with a gigantic list of resources and books
-* Forgetting to ask specifically topic someone wants to focus on within offensive security
+* Forgetting to ask specifically which topic someone wants to focus on within offensive security
 * Failing to find out what learning style and path works best for them
 * Telling people to learn everything there is to know back to 199x
 
