@@ -8,7 +8,7 @@ All of my personal devices such as iPhone and iPad  have names that can trigger 
 
 This has triggered XSS on many different softwares including notification software, routers, and in this case Amazon. It does this because many of these softwares have a page that lists devices and is viewed by other users. In the case of Amazon the XSS was triggered when accessing the one click devices. The bug was reported through email as seen in the next section.
 
-### Reporting the bug to Amazon
+## Reporting the bug to Amazon
 
 Report date: July 19th 2017
 
@@ -36,18 +36,18 @@ Thanks,
 
 Justin
 
-### Discovery of mobile compatibility and reporting (Update)
+## Discovery of mobile compatibility and reporting (Update)
 
 Additionally later I found that this could be triggered from a mobile phone as seen in the example below. This update was reported to Amazon on August 19th 2017:
 
 ![alt text](.img/Amazon%20-%201%20click%20XSS%20mobile%20POC.png)
 
-### Fix implemantation
+## Fix implemantation
 
 This issue was fixed by adding output encoding to the device listing. Additionally they have moved 1-click device listing to it’s own page under Your Account -> 1-Click settings -> Manager 1-Click for your devices:
 
 ![alt text](.img/Amazon%20-%201%20click%20XSS%20-%20fix.png)
 
-### Conclusion
+## Conclusion
 
 In this case the 1 click device list is only something that the user would view and the attack vector is through the name of their device. This means the only valid attack vector as I specified to them in a later email is to attack reps who assist me with my account and have to view my 1 click devices for troubleshooting. This however is not always the case in all bugs I have discovered. In other bugs I have discovered other users would be affected by my XSS payload.
