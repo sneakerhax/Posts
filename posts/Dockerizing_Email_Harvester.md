@@ -2,7 +2,7 @@
 
 I was just hanging out on a Saturday night and I stumbled onto this tool called EmailHarvester. It runs on Python 3 and I still use Python 2.7 and didn’t want to deal with virutualenv and whatnot. I decided it might be a good time to learn how to Dockerize tools. This is nothing mind blowing or new but I haven’t done this before.
 
-### Creating the Dockerfile
+## Creating the Dockerfile
 
 First thing that needs to be done is to build a Dockerfile that will used to build the image (Can be found [here](https://github.com/sneakerhax/Runbooks/blob/master/Docker/emailharvester/Dockerfile)):
 
@@ -30,7 +30,7 @@ Here is the break down line by line:
 
 For more information the documentation can be found [here](https://docs.docker.com/engine/reference/builder/)
 
-### Building the Docker image
+## Building the Docker image
 
 To build the image run  the following command:
 
@@ -42,9 +42,9 @@ Additionally you can add a label to the name (-t) by doing name:label. If you do
 
 For more information the documentation can be found [here](https://docs.docker.com/engine/reference/commandline/build/)
 
-### Running the Docker image
+## Running the Docker container
 
-To run the Docker image do the following:
+To run the Docker container do the following:
 
 ```
 $ docker run -it emailharvester -d domain.com
@@ -57,10 +57,10 @@ $ docker run -it emailharvester -d domain.com
 [+] Searching in ASK: 50 results
 ```
 
-This runs the docker image in interactive mode and takes everything after the image name as an argument.
+This runs the docker container in interactive mode and takes everything after the image name as an argument.
 
-For more information the documentation can be found [here](https://docs.docker.com/engine/reference/commandline/run/)
+For more information on the run command documentation can be found [here](https://docs.docker.com/engine/reference/commandline/run/)
 
-### Conclusion
+## Conclusion
 
 So there you go a Dockerized tool. This makes it really easy to deal with dependencies. For example you can send the image to a friend and they can run it with ease as long as they have Docker. It doesn’t matter what kind of system they are running. I think all tools should come with a Dockerfile to deal with dependency issues.
