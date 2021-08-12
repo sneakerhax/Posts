@@ -1,7 +1,7 @@
 # Posts
 Posts about different offensive security topics
 
- [![Twitter](https://img.shields.io/badge/twitter-sneakerhax-38A1F3?logo=twitter)](https://twitter.com/sneakerhax)
+ [![Twitter](https://img.shields.io/badge/twitter-sneakerhax-38A1F3?logo=twitter)](https://twitter.com/sneakerhax) [![Patreon](https://img.shields.io/badge/Patreon-sneakerhax-red.svg?logo=patreon)](https://patreon.com/sneakerhax)
  
  ## Posts
 
