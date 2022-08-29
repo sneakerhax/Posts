@@ -26,13 +26,6 @@ A list of penetration testing resources
 * [How to get started with writing a post module](https://github.com/rapid7/metasploit-framework/wiki/How-to-get-started-with-writing-a-post-module) - Rapid7
 * [Metasploit Framework Ruby docs](http://www.rubydoc.info/github/rapid7/metasploit-framework) - Rapid7
 
-## Cobalt Strike/Armitage
-
-* [Red Team Operations with Cobalt Strike (2019)](https://www.youtube.com/watch?v=q7VQeK533zI&list=PL9HO6M_MU2nfQ4kHSCzAQMqxQxH47d1no) - Raphael Mudge
-* [Advanced Threat Tactics Course and Notes (2015)](https://blog.cobaltstrike.com/2015/09/30/advanced-threat-tactics-course-and-notes/) - Raphael Mudge
-* [Cobalt Strike Blog](http://blog.cobaltstrike.com/) - Raphael Mudge
-* [Cobalt Strike - Malleable C2](https://www.cobaltstrike.com/help-malleable-c2) - Raphael Mudge
-
 ## Web Application Penetration Testing
 
 * [OWASP Web Application Penetration Testing](https://www.owasp.org/index.php/Web_Application_Penetration_Testing) - Owasp
@@ -83,20 +76,6 @@ A list of penetration testing resources
 * [Sample Penetration Testing Report](https://www.offensive-security.com/reports/sample-penetration-testing-report.pdf)  -  Offensive Security
 * [Writing a Penetration Testing Report](https://www.sans.org/reading-room/whitepapers/bestprac/writing-penetration-testing-report-33343) - SANS
 * [How to Improve your Pentest Reports](https://www.blackhillsinfosec.com/your-reporting-matters-how-to-improve-pen-test-reporting/) - Black Hills Information Security (Brian B. King)
-
-## Red Teaming
-
-* [Dirty Red Team Tricks](https://www.youtube.com/watch?v=oclbbqvawQg) - Raphael Mudge and Rob Fuller
-* [Dirty Red Team Tricks 2.0](https://www.youtube.com/watch?v=6kKoJW5xvhg) - Raphael Mudge
-* [Force Multipliers for Red Team Operations](https://www.youtube.com/watch?v=G-JaHWaLmgc) - Raphael Mudge
-* [Flying a Cylon Raider](https://www.youtube.com/watch?v=26PedM_-zRo) - Raphael Mudge
-* [In Memory Evasion (2018)](https://www.youtube.com/watch?v=lz2ARbZ_5tE&list=PL9HO6M_MU2nc5Q31qd2CwpZ8J4KFMhgnK&ab_channel=RaphaelMudge) - Raphael Mudge
-* [Red Teaming Back and Forth 5ever](https://www.youtube.com/watch?v=FTiBwFJQg64) - Fuzzynop
-* [Bridging the gap - Lesson in adversarial tradecraft](https://www.youtube.com/watch?v=xHkRhRo3l8o) - harmj0y & enigma0x3
-* [Tradecraft Security Weekly](https://wiki.securityweekly.com/Tradecraft_Security_Weekly) - Security Weekly
-* [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) - bluescreenofjeff
-* [Red Teaming Experiments](https://www.ired.team/) - spottheplanet
-
 
 ## Labs (hands on experience)
 
