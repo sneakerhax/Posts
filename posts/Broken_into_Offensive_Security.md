@@ -133,3 +133,7 @@ Let me break down some of the key differences:
     * Projects are the highest priority
     * Have fun and be yourself on social media
     * Seek friends not followers
+
+## Next Steps
+
+The next part in this series is [Privilege Escalation in your Offensive Security Career](https://github.com/sneakerhax/Posts/blob/main/posts/Privilege_Escalation_in_your_offensive_security_career.md)
