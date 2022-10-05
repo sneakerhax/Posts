@@ -62,3 +62,6 @@ I have always been a very informal studier. Evertime I wanted to learn a new top
 
 * Having everything collected in one place (formal)
 * Collecting the data on your own (Informal)
+
+## Next Steps
+The next part in this series is [Maximum Compromise in your Offensive Security Career](https://github.com/sneakerhax/Posts/blob/main/posts/Maximum_Compromise_in_your_offensive_security_career.md)
