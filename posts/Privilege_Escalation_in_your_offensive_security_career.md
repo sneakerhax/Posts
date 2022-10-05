@@ -2,6 +2,9 @@
 
 If you go to any search engine and type in "breaking into offensive security" or "how to get started in offensive security" you will find pages and pages of results. However you almost never see articles about improving your skills once you're employed in offensive security. For me I felt that I was stuck at intermediate for many years. I wasn't a bad penetration tester but I was lacking some habits and direction that would allow me to advance any further. Over the past couple of years I've learned some techniques that have greatly improved my personal and professional development. These can also help you balance your life, avoid burnout, and overall help you get more done in less time.
 
+## Previous post in this series
+* [Broken Into Offensive Security](https://github.com/sneakerhax/Posts/blob/main/posts/Broken_into_Offensive_Security.md)
+
 ## Scope limiting
 
 There was a time where I would read any content that contained even one of a long list of words related to offensive security. This became a damaging habit as offensive security became a vast and extensive topic. I ultimately realized that I was consuming a never ending list of content while also simultaneously hoarding information I would never use. Bottom line is 90% of what I read was mentally thrown out before I had a chance to use it. I was esentially operating in a FIFO (First in First out) pattern that wasn't helping me improve. This was a bad habit linked to the fact that no penetetration tester ever wants to miss an issue. Therefore constant consumption of new techniques must be the answer right? Wrong I discoverd this was a bad and truly pointless habit. Limiting the scope of what I consumed through blog posts, videos, and Twitter turned out to be the fix.
