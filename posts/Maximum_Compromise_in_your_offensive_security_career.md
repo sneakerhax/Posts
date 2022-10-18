@@ -24,7 +24,7 @@ I also want to make a note about personal planning. This means having a personal
 
 ## Cost
 
-Another planning factor is the cost or "what is the cost of the thing you're proposing?". This is a massive surprise to individuals who have only started working on items after they have been evaluated for cost and approved. As a Principal, leadership will look to you for a clear understanding of what you're doing and how much it will cost. You may sometimes be asked to defend the cost of your work, explaining your strategy and the outcomes you will reach by investing in your direction.
+Another planning factor is the cost or "what is the cost of the thing you're proposing?". This is a massive surprise to individuals who have only started working on items after they have been evaluated for cost and approved. As a Principal, leadership will look to you for a clear understanding of what you're doing and how much it will cost. Additionally, you may have to defend the cost of your proposed work, explaining your strategy and the outcomes you will reach by investing in your direction.
 
 ## Data Driven
 
