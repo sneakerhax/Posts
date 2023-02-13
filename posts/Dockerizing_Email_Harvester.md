@@ -1,10 +1,10 @@
 # Docker - Dockerizing Email Harvester
 
-I was just hanging out on a Saturday night and I stumbled onto this tool called EmailHarvester. It runs on Python 3 and I still use Python 2.7 and didn’t want to deal with virutualenv and whatnot. I decided it might be a good time to learn how to Dockerize tools. This is nothing mind blowing or new but I haven’t done this before.
+I was hanging out on a Saturday night and stumbled onto this tool called EmailHarvester. It runs on Python 3, and I still use Python 2.7 and didn’t want to deal with virutualenv and whatnot. I decided it might be a good time to learn how to Dockerize tools. Dockerizing tools is nothing mind-blowing or new, but I haven’t done this before.
 
 ## Creating the Dockerfile
 
-First thing that needs to be done is to build a Dockerfile that will used to build the image (Can be found [here](https://github.com/sneakerhax/OffensiveCloudNative/blob/main/Tools/Emailharvester/Dockerfile)):
+First thing that needs to be done is to build a Dockerfile that will used to build the image (Can be found [here](https://github.com/sneakerhax/Arsenal/blob/main/Containers/Emailharvester/Dockerfile)):
 
 ```
 # A dockerized version of the tool emailharvester by maldevel
@@ -63,4 +63,4 @@ For more information on the run command documentation can be found [here](https:
 
 ## Conclusion
 
-So there you go a Dockerized tool. This makes it really easy to deal with dependencies. For example you can send the image to a friend and they can run it with ease as long as they have Docker. It doesn’t matter what kind of system they are running. I think all tools should come with a Dockerfile to deal with dependency issues.
+So there you go, a Dockerized tool. Containerizing makes it easy to deal with dependencies. For example, you can send the image to a friend, who can run it quickly as long as they have Docker. It doesn’t matter what kind of system they are running. I think all tools should have a Dockerfile to deal with dependency issues.
