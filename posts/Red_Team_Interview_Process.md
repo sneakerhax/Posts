@@ -63,6 +63,6 @@ It is a common scenario to be provided an assumed compromise foothold in a compa
 
 ### What is your area of expertise?
 
-When asked about your expertise, expect the interviewer to dig deeper into the topic to discover if you're truly a specialist in this area. Sometimes the team or company may have an individual who can interview you who also specializes in that area. In short, if you claim to specialize in a topic, prepare for an in-depth evaluation.
+When asked about your expertise, expect the interviewer to dig deeper into the topic to discover if you're a specialist in this area. Sometimes the team or company may have an individual who can interview you who specializes in that area. In short, if you claim to specialize in a topic, prepare for an in-depth evaluation.
 
 If you have additional questions, feel free to submit a pull request.
