@@ -18,7 +18,7 @@ Here is a list of challenges I've faced during the interview process:
 
 ## Red Team Interview Questions
 
-The following list contains the most common questions I encountered during the interview. The following questions will only prepare someone who has done the work to be ready for a Red Team interview. The intention is to assess readiness and identify gaps in knowledge. Your answers may vary depending on your experience and the question asked. Because of this, I'll give details about what to expect instead of the exact answer to the questions.
+The following list contains the most common questions I've encountered during an interview. These questions will only prepare someone who has done the work to be ready for a Red Team interview. The intention is to assess readiness and identify gaps in knowledge. Your answers may vary depending on your experience and the question asked. Because of this, I'll give details about what to expect instead of the exact answer to the questions.
 
 
 ### What is the difference between Penetration Testing and Red Teaming?
