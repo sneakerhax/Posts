@@ -12,4 +12,5 @@ Posts about different offensive security topics
 * [Amazon 1 click device XSS](https://github.com/sneakerhax/Posts/blob/main/posts/Amazon_1_click_device_XSS.md) - An XSS bug I reported to Amazon
 * [Python Meterpreter through proxy](https://github.com/sneakerhax/Posts/blob/main/posts/Python_Meterpreter_through_Proxy.md) - A post about establishing a Python Meterpreter through proxy
 * [Pentester Interview Process](https://github.com/sneakerhax/Posts/blob/main/posts/Pentester_Interview_Process.md) - A post about interviewing for penetration testing jobs
+* [Red Team Interview Process](https://github.com/sneakerhax/Posts/blob/main/posts/Red_Team_Interview_Process.md) - A post about interviewing for Red Team jobs
 * [Penetration Testing Resources](https://github.com/sneakerhax/Posts/blob/main/posts/Penetration_Testing_Resources.md) - A list of penetration testing resources
