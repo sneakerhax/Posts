@@ -30,7 +30,7 @@ Penetration Test:
 * Defined duration
 * Result is a list of vulnerabilities
 
-Red Team:
+Red Teaming:
 * Limited or no restriction on the scope
 * Chaining exploits together for business impact
 * Results in a report that describe the entire engagement and outcomes
