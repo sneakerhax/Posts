@@ -1,6 +1,6 @@
 # Red Team Hiring Process
 
-Red Teaming is a skill that, in many cases, requires you to know about multiple technical domains. Because Red Teaming requires many areas of technical expertise, it can lead to being asked a wide range of questions during an interview process. Additionally, it's essential to understand that many roles exist on a Red Team, including Operator, Infrastructure, Tool developer, C2 developer, exploit developer, and many others. Meeting Red Teamers with Developer or Operations (System Administrator) backgrounds is common. With all that said, below is a list of questions and hands-on exercises I've experienced during the Red Team interview process.
+Red Teaming is a skill that, in many cases, requires you to know about multiple technical domains. Because Red Teaming requires many areas of technical expertise, it can lead to being asked a wide range of questions during an interview process. Additionally, it's essential to understand that many roles exist on a Red Team, including Operator, Infrastructure, Tool developer, C2 developer, exploit developer, and many others. Meeting Red Teamers with Developer or Operations (System Administrator) backgrounds is also common. With all that said, below is a list of questions and hands-on exercises I've experienced during the Red Team interview process.
 
 ## Hands-on exercises
 
