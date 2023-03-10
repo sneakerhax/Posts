@@ -40,7 +40,7 @@ These points are a good starting point, but be prepared to answer this question 
 
 ### Explain how you would start a Red Team engagement if given only the company name
 
-This question can present itself in many variations, but the idea is that the interviewer is trying to determine your methodology for starting a Red Team engagement. A typical answer would likely involve data sources you use to collect company information and reconnaissance you perform to start identifying assets,
+This question can present itself in many variations, but the idea is that the interviewer is trying to determine your methodology for starting a Red Team engagement. A typical answer would likely involve data sources you use to collect company information and reconnaissance you perform to start identifying assets.
 
 ### In the interviewer's scenario, how would you gain an initial foothold inside a target?
 
