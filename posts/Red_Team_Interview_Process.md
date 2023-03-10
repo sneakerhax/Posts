@@ -13,7 +13,7 @@ Here is a list of challenges I've faced during the interview process:
 * Discover the vulnerability in a web lab environment and achieve RCE on the machine
 * Exploit a staging website (owned by the company) that currently has an unresolved vulnerability
 * Port scan a lab environment and provide dialogue on how I would prioritize and discover an initial foothold
-* Perform testing on a web application and discover as vulnerabilities, exploit if possible
+* Perform testing on a web application and discover vulnerabilities, exploit if possible
 
 
 ## Red Team Interview Questions
