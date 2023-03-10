@@ -46,7 +46,7 @@ This question can present itself in many variations, but the idea is that the in
 
 After you answer the previous question, the interviewer will likely ask you for more detailed information. In the past, the question involved giving details about how I would perform a targeted spear phishing scenario or crack the perimeter to gain access.
 
-### What is a TTP
+### What is a TTP?
 
 TTP stands for Tactics, Techniques, and Procedures. The following article describes them far better than I can in a short response.
 
