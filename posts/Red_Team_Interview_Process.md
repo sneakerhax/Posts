@@ -1,6 +1,6 @@
 # Red Team Hiring Process
 
-Red Teaming is a skill that, in many cases, requires you to know about multiple technical domains. Because Red Teaming requires many areas of technical expertise, it can lead to being asked a wide range of questions during an interview process. Additionally, it's essential to understand that many roles exist on a Red Team, including Operator, Infrastructure, Tool developer, C2 developer, exploit developer, and many others. Meeting Red Teamers with Developer or Operations (System Administrator) backgrounds is also common. With all that said, below is a list of questions and hands-on exercises I've experienced during the Red Team interview process.
+Red Teaming is a skill that, in many cases, requires you to know about multiple technical domains. Because Red Teaming requires many areas of technical expertise, it can lead to being asked a wide range of questions during an interview process. Additionally, it's essential to understand that many roles exist on a Red Team, including Operator, Infrastructure, Tool developer, C2 developer, exploit developer, and many others. Meeting Red Teamers with Developer or Operations (System Administrator) backgrounds is common. With all that said, below is a list of questions and hands-on exercises I've experienced during the Red Team interview process.
 
 ## Hands-on exercises
 
@@ -36,11 +36,11 @@ Red Teaming:
 * Results in a report that describe the entire engagement and outcomes
 * A predefined business impact may be agreed upon, e.g., reach this database and dump customer records
 
-These points are a good starting point, but be prepared to answer this question in more detail to give the interviewer confidence that you understand the role.
+These highlights are a good starting point, but you should prepare to answer this question in more detail to give the interviewer confidence that you understand the role.
 
 ### Explain how you would start a Red Team engagement if given only the company name
 
-This question can present itself in many variations, but the idea is that the interviewer is trying to determine your methodology for starting a Red Team engagement. A typical answer would likely involve data sources you use to collect company information and reconnaissance you perform to start identifying assets.
+This question can present itself in many variations. A typical answer would likely involve data sources you use to collect company information and reconnaissance you perform to start identifying assets. Still, the idea is that the interviewer is trying to determine your methodology for starting a Red Team engagement.
 
 ### In the interviewer's scenario, how would you gain an initial foothold inside a target?
 
