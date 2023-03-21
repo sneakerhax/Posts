@@ -36,7 +36,7 @@ Red Teaming:
 * Results in a report that describe the entire engagement and outcomes
 * A predefined business impact may be agreed upon, e.g., reach this database and dump customer records
 
-These points are a good starting point but be prepared to answer this question in more detail to give the interviewer confidence that you understand the role.
+These highlights are a good starting point but prepare to answer this question in more detail to give the interviewer confidence that you understand the role.
 
 ### Explain how you would start a Red Team engagement if given only the company name
 
