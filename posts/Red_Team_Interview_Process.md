@@ -36,11 +36,11 @@ Red Teaming:
 * Results in a report that describe the entire engagement and outcomes
 * A predefined business impact may be agreed upon, e.g., reach this database and dump customer records
 
-These highlights are a good starting point, but you should prepare to answer this question in more detail to give the interviewer confidence that you understand the role.
+These points are a good starting point but be prepared to answer this question in more detail to give the interviewer confidence that you understand the role.
 
 ### Explain how you would start a Red Team engagement if given only the company name
 
-This question can present itself in many variations. A typical answer would likely involve data sources you use to collect company information and reconnaissance you perform to start identifying assets. Still, the idea is that the interviewer is trying to determine your methodology for starting a Red Team engagement.
+This question can present itself in many variations, but the idea is that the interviewer is trying to determine your methodology for starting a Red Team engagement. A typical answer would likely involve data sources you use to collect company information and reconnaissance you perform to start identifying assets.
 
 ### In the interviewer's scenario, how would you gain an initial foothold inside a target?
 
