@@ -4,7 +4,7 @@ I feel a lot of advice about breaking into offensive security is broken. Based o
 
 ## Types of broken advice
 
-Broken advice comes in all types, but some need to be more counterintuitive to the person receiving the advice. 
+Broken advice comes in all types, but some is more counterintuitive to the person receiving the advice. 
 
 Here is a list of things I don't think you should do:
 
