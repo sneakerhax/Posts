@@ -123,7 +123,7 @@ Let me break down some of the key differences:
 * Do you want to work in offensive security? If yes proceed
 * Choose your educational path:
     * Take into consideration your background and years of experience
-    * Make sure always to consider your goals
+    * Make sure to always consider your goals
     * Always use the path you feel works best for your learning style
 * Find local meetups or conferences in your area (Optional)
 * Listen to podcasts, watch videos, or read chat logs daily for immersion
