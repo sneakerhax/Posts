@@ -52,13 +52,13 @@ It can be a trap to look at all the incredible research you see online and belie
 
 ## Embrace where you're right now
 
-There was a time when I had a firm opinion about what I should be doing as a Red Teamer. Rigid beliefs caused me to neglect the opportunities to leverage what was right in front of me for learning purposes. Frequently employed, we have access to technologies, training, and people that will make us much more well-rounded and better penetration testers. While wasting time-fighting what I thought shouldn't be part of my job, I missed learning opportunities. My advice is to embrace the learning opportunities right in front of you entirely. Don't let the idea of your perfect job hold you back from learning everything you possibly can from your current role.
+There was a time when I had a firm opinion about what I should be doing as a Red Teamer. Rigid beliefs caused me to neglect the opportunities to leverage what was right in front of me for learning purposes. Frequently employed, we have access to technologies, training, and people that will make us much more well-rounded and better penetration testers. While wasting time fighting what I thought shouldn't be part of my job, I missed learning opportunities. My advice is to embrace the learning opportunities right in front of you entirely. Don't let the idea of your perfect job hold you back from learning everything you possibly can from your current role.
 
 * Leverage what's in front of you
 
 ## Formal vs. informal study
 
-I completely underestimated the value of taking a course or reading a book. I have always been a very informal studier. Whenever I wanted to learn a new topic, I searched the internet for every blog post, video, and Tweet I felt would help. I could save myself many hours of collection time for a small cost. Taking courses also allowed me to plan to study much easier as the information was measured and ordered. It would help if you always balanced the positives and negatives of each, but in most cases, I'm starting to find that with a busy schedule seeking formal content is much more suited for improving myself.
+I completely underestimated the value of taking a course or reading a book. I have always been a very informal studier. Whenever I wanted to learn a new topic, I searched the internet for every blog post, video, and Tweet I felt would help. However, I came to realize the time savings I could achieve for a small cost. Taking courses also allowed me to plan to study much easier as the information was measured and ordered. It would help if you always balanced the positives and negatives of each, but in most cases, I'm starting to find that with a busy schedule seeking formal content is much more suited for improving myself.
 
 * Having everything collected in one place (formal)
 * Collecting the data on your own (Informal)
