@@ -34,7 +34,7 @@ Red Teaming:
 * Limited or no restriction on the scope
 * Chaining exploits together for business impact
 * Results in a report that describe the entire engagement and outcomes
-* A predefined business impact may be agreed upon, e.g., reach this database and dump customer records
+* A predefined business impact may be agreed upon, e.g., reach X database and exfiltrate data
 
 These highlights are a good starting point but prepare to answer this question in more detail to give the interviewer confidence that you understand the role.
 
