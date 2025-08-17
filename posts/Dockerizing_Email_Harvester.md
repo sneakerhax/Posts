@@ -4,7 +4,7 @@ I was hanging out on a Saturday night and stumbled onto this tool called EmailHa
 
 ## Creating the Dockerfile
 
-The first step is to build a Dockerfile used to build the image (Can be found [here](https://github.com/sneakerhax/Arsenal/blob/main/Containers/Emailharvester/Dockerfile)):
+The first step is to build a Dockerfile used to build the image (Can be found [here](https://github.com/sneakerhax/Containers/blob/main/Emailharvester/Dockerfile)):
 
 ```
 # A dockerized version of the tool emailharvester by maldevel
