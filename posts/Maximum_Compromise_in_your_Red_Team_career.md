@@ -1,4 +1,4 @@
-# Maximum Compromise in your Red Teaming Career
+# Maximum Compromise in your Red Team Career
 
 The last few years have been quite a journey. I've moved from a level 2 Red Team Engineer (queue GoldenEye memes) to a Director. The differences are so vast that I couldn't have fathomed how much I would change since starting my career path. I did not achieve this level alone, and mentorship from many individuals helped me see the way and become competent at the principles required to reach the Principal/Director level. Being a Principal in Red Teaming is pretty specific, so I'd like to capture some information here that people will find helpful. If I'm successful, someone may even find themselves a newly minted Principal using some of this information. Let's get started so you can learn what helped me achieve Maximum Compromise in my Red Teaming career.
 
@@ -6,7 +6,7 @@ The last few years have been quite a journey. I've moved from a level 2 Red Team
 
 Before reading this post, consider reading the following:
 * [Broken Into Red Teaming](https://github.com/sneakerhax/Posts/blob/main/posts/Broken_into_Red_Teaming.md)
-* [Privilege Escalation in your Red Teaming Career](https://github.com/sneakerhax/Posts/blob/main/posts/Privilege_Escalation_in_your_Red_Teaming_career.md)
+* [Privilege Escalation in your Red Teaming Career](https://github.com/sneakerhax/Posts/blob/main/posts/Privilege_Escalation_in_your_Red_Team_career.md)
 
 ## Leadership vs. Technical
 
