@@ -38,11 +38,11 @@ Many jobs require certification for the position. These can be helpful when atte
 
 **Degree**
 
-Degrees can be similarly helpful in getting past HR screening and, in some job scenarios, required. Understanding what types of jobs require a degree and determining whether or not these are the types of jobs you want will help you with this decision. More importantly, it helps to focus on the skills you will receive while attaining a degree. An example of such a degree is a Bachelor's degree in Computer Science. I notice that many people with this degree are skilled in computer programming.
+Degrees can be similarly helpful in getting past HR screening and, in some job scenarios, required. Understanding what types of jobs require a degree and determining whether or not these are the types of jobs you want will help you with this decision. More importantly, it helps to focus on the skills you will receive while attaining a degree. An example of such a degree is a Bachelor of Science degree in Computer Science. I have noticed that many individuals with this degree are skilled in computer programming.
 
 **Alphabet Soup**
 
-The definition of Alphabet Soup refers to a person with numerous certificates and qualifications listed after their name or in their social media bio. There is a way to achieve all these certifications while being unqualified to work in Red Teaming. It would be best if you focused on the skills you can bring to the job, rather than the number of credentials and qualifications you have. Also, I've never met someone who thought having all these certifications after their name was important and was an excellent Red Team candidate.
+The term "Alphabet Soup" refers to a person with numerous certificates and qualifications listed after their name or in their social media bio. There is a way to achieve all these certifications while being unqualified to work in Red Teaming. It would be best if you focused on the skills you can bring to the job, rather than the number of credentials and qualifications you have. Also, I've never met someone who thought having all these certifications after their name was important and was an excellent Red Team candidate.
 
 The critical takeaway is to select the combination of educational paths that will help you achieve your goal. You will be the one required to possess the necessary skills to succeed.
 
@@ -50,7 +50,7 @@ Below are a few scenarios with specific examples:
 
 **Scenario 1 - Certification/s**
 
-You have a few years of experience in operations (systems administration) and would like to transition to Red Teaming. You decide to pursue a certification like the OSCP, which will provide you with the practical, hands-on experience necessary to perform Red Teaming. You will leverage this with your extensive experience in networking and Active Directory.
+You have a few years of experience in operations (systems administration) and would like to transition to Red Teaming. You decide to pursue a certification like the OSCP, which will provide you with the practical, hands-on experience necessary to perform Red Teaming. You will combine this with your extensive experience in networking and Active Directory.
 
 **Scenario 2 - Degree**
 
