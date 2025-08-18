@@ -136,4 +136,4 @@ Let me break down some of the key differences:
 
 ## Next Steps
 
-The next part in this series is [Privilege Escalation in your Red Team Career](https://github.com/sneakerhax/Posts/blob/main/posts/Privilege_Escalation_in_your_red_team_career.md)
+The next part in this series is [Privilege Escalation in your Red Team Career](https://github.com/sneakerhax/Posts/blob/main/posts/Privilege_Escalation_in_your_Red_Team_career.md)
