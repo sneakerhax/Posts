@@ -80,7 +80,7 @@ Balancing these two can be very important in the early stages of learning. You w
 
 ## Immersion
 
-Immersing yourself can be one of the essential parts of breaking into Red Teaming. Immersion involves frequently putting yourself in a position to absorb concepts, terms, and ideas related to the topic. You can achieve this by listening to podcasts, watching videos, and reading chats (IRC/Discord). Over time, this will build your understanding of the topic as you both affirm knowledge and are introduced to a diverse set of ideas about it.
+Immersing yourself can be one of the essential parts of breaking into Red Teaming. Immersion involves frequently putting yourself in a position to absorb concepts, terms, and ideas related to the topic. You can achieve this by listening to podcasts, watching videos, and reading chats (IRC/Discord/Slack). Over time, this will build your understanding of the topic as you both affirm knowledge and are introduced to a diverse set of ideas about it.
 
 ## Specializing (What should I study?)
 
@@ -96,11 +96,11 @@ It is advantageous to work on your brand. However, I don't think it's necessary.
 
 Projects are an excellent way for you to display your abilities. For example, having GitHub projects demonstrates your proficiency in using GitHub, while also showcasing your ability to program in one or more languages. Posting on a blog can demonstrate your technical writing skills and showcase your ability to perform various tasks related to Red Teaming. These are great for interviews and help you stand out from other candidates in terms of your level of passion for Red Teaming.
 
-You don't need to have social media to break into Red Teaming. Some of the best Red Teamers I know avoid it altogether. If you decide to use social media, I recommend seeking genuine interactions rather than just followers. Share what interests you and steer clear of the drama if possible. You can make great friends by being active on platforms like Twitter. However, participating in social media can be a huge distraction to your goals, so keep it in check.
+You don't need to have social media to break into Red Teaming. Some of the best Red Teamers I know avoid it altogether. If you decide to use social media, I recommend seeking genuine interactions rather than just accumulating followers. Share what interests you and steer clear of the drama if possible. You can make great friends by being active on platforms like Twitter. However, participating in social media can be a huge distraction to your goals, so keep it in check.
 
 ## Consulting vs. Corporate
 
-Consulting vs. Corporate is another one of the divisions I believe needs to be discussed more. These represent two very different types of jobs in Red Teaming. 
+Consulting vs. Corporate is another difference I believe needs to be discussed more. These represent two very different types of jobs in Red Teaming. 
 
 Let me break down some of the key differences:
 
@@ -126,7 +126,7 @@ Let me break down some of the key differences:
     * Make sure to always consider your goals
     * Always use the path you feel works best for your learning style
 * Find local meetups or conferences in your area (Optional)
-* Listen to podcasts, watch videos, or read chat logs daily for immersion
+* Listen to podcasts, watch videos, or read chat (IRC/Discord/Slack) daily for immersion
 * Choose a specialty and give yourself 1-2 weeks on that topic to verify that you enjoy it
 * Make sure your plan matches the type of job you're seeking
 * Choose the level of public interaction that makes you comfortable
