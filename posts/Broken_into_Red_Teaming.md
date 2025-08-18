@@ -68,7 +68,7 @@ You have decided that having as many letters after your name as possible is esse
 
 Dev vs. Ops background is the biggest differentiator in Red Teaming. Many people start doing this job with a dev background, while others begin with an operations (systems administration) background. I find a much higher success rate with individuals who have been successful for several years in either Development or Operations. It is also possible to start without experience, but it makes the journey much harder. Beginning with no knowledge leaves you grasping for straws when it comes to some of the most fundamental concepts. 
 
-It's entirely possible to prepare yourself for a job in Red Teaming with no prior technical experience. However, working harder to grasp basic technical concepts and apply them quickly to Red Teaming will be necessary. I recommend spending the first 3-6 months building a foundation in the technical concepts required to achieve the goals of your planned study path. For example, if you plan to be a network penetration tester, you should spend this time familiarizing yourself with networking, protocols, and setting up networks.
+It's entirely possible to prepare yourself for a job in Red Teaming with no prior technical experience. However, working harder to grasp basic technical concepts and apply them quickly to Red Teaming will be necessary. I recommend spending the first 3-6 months building a foundation in the technical concepts required to achieve the goals of your planned study path. For example, if you plan to be a Red Team Operator, you should spend this time familiarizing yourself with networking, protocols, and setting up networks.
 
 ## Meetups and Conferences
 
