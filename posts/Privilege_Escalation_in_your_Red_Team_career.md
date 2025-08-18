@@ -15,7 +15,7 @@ There was a time when I would read any content that contained even one of a long
 
 ## Study to meet objectives or for pure interest
 
-After limiting the scope to topics I was actively engaged in or needed improvement in, I realized I still needed more direction. It's essential to understand the reason why you're studying a topic. Are you meeting an objective? Or just constantly consuming without a goal? To become a more skilled penetration tester, you must be intentional about improving your skills. Solving this problem occurred when I created a study board where each item measures an objective I'm trying to achieve. Sure, I still get sidetracked by exciting topics, but by ensuring at least 80% of your studying has an aim in mind, you can improve significantly faster.
+After limiting the scope to topics I was actively engaged in or needed improvement in, I realized I still needed more direction. It's essential to understand the reason why you're studying a topic. Are you meeting an objective? Or just constantly consuming without a goal? To become a more skilled Red Teamer, you must be intentional about improving your skills. Solving this problem occurred when I created a study board where each item measures an objective I'm trying to achieve. Sure, I still get sidetracked by exciting topics, but by ensuring at least 80% of your studying has an aim in mind, you can improve significantly faster.
 
 * Plan for objectives; not every possible scenario
 * Avoiding endless study cycles
