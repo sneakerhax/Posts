@@ -5,9 +5,9 @@ Posts about different offensive security topics
  
  ## Posts
 
-* [Broken into Offensive Security](https://github.com/sneakerhax/Posts/blob/main/posts/Broken_into_Offensive_Security.md) - Breaking into the field of Offensive Security and flawed advice
-* [Privilege Esclation in your Offensive Security Career](https://github.com/sneakerhax/Posts/blob/main/posts/Privilege_Escalation_in_your_offensive_security_career.md) - Advancing in your Offensive Security Career
-* [Maximum Compromise in your Offensive Security Career](https://github.com/sneakerhax/Posts/blob/main/posts/Maximum_Compromise_in_your_offensive_security_career.md) - The principals of being a principal in Offensive Security
+* [Broken into Red Teaming](https://github.com/sneakerhax/Posts/blob/main/posts/Broken_into_Red_Teaming.md) - Breaking into the field of Offensive Security and flawed advice
+* [Privilege Esclation in your Offensive Security Career](https://github.com/sneakerhax/Posts/blob/main/posts/Privilege_Escalation_in_your_Red_Team_career.md) - Advancing in your Offensive Security Career
+* [Maximum Compromise in your Red_Team Career](https://github.com/sneakerhax/Posts/blob/main/posts/Maximum_Compromise_in_your_offensive_security_career.md) - The principals of being a principal in Offensive Security
 * [Red Team Interview Process](https://github.com/sneakerhax/Posts/blob/main/posts/Red_Team_Interview_Process.md) - Interviewing for Red Team jobs
 * [Pentester Interview Process](https://github.com/sneakerhax/Posts/blob/main/posts/Pentester_Interview_Process.md) - Interviewing for penetration testing jobs
 * [Penetration Testing Resources](https://github.com/sneakerhax/Posts/blob/main/posts/Penetration_Testing_Resources.md) - A list of penetration testing resources
