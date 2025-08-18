@@ -80,7 +80,7 @@ Balancing these two can be very important in the early stages of learning. You w
 
 ## Immersion
 
-Immersing yourself can be one of the essential parts of breaking into Red Teaming. Immersion involves frequently putting yourself in a position to absorb concepts, terms, and ideas related to the topic. You can achieve this by listening to podcasts, watching videos, and reading chat logs. Over time, this will build your understanding of the topic as you both affirm knowledge and are introduced to a diverse set of ideas about it.
+Immersing yourself can be one of the essential parts of breaking into Red Teaming. Immersion involves frequently putting yourself in a position to absorb concepts, terms, and ideas related to the topic. You can achieve this by listening to podcasts, watching videos, and reading chats (IRC/Discord). Over time, this will build your understanding of the topic as you both affirm knowledge and are introduced to a diverse set of ideas about it.
 
 ## Specializing (What should I study?)
 
