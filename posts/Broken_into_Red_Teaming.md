@@ -50,7 +50,7 @@ Below are a few scenarios with specific examples:
 
 **Scenario 1 - Certification/s**
 
-You have a few years of experience in operations (systems administration) and would like to transition to Red Teaming. You decide to pursue a certification like the OSCP, which will provide you with the practical, hands-on experience necessary to perform penetration testing. You will leverage this with your extensive experience in networking and Active Directory.
+You have a few years of experience in operations (systems administration) and would like to transition to Red Teaming. You decide to pursue a certification like the OSCP, which will provide you with the practical, hands-on experience necessary to perform Red Teaming. You will leverage this with your extensive experience in networking and Active Directory.
 
 **Scenario 2 - Degree**
 
