@@ -52,7 +52,7 @@ It can be a trap to look at all the incredible research you see online and belie
 
 ## Embrace where you're right now
 
-There was a time when I had a firm opinion about what I should be doing as a Red Teamer. Rigid beliefs caused me to neglect the opportunities to leverage what was right in front of me for learning purposes. Frequently employed, we have access to technologies, training, and people that will make us much more well-rounded and better penetration testers. While wasting time fighting what I thought shouldn't be part of my job, I missed learning opportunities. My advice is to embrace the learning opportunities right in front of you fully. Don't let the idea of your perfect job hold you back from learning everything you possibly can from your current role.
+There was a time when I had a firm opinion about what I should be doing as a Red Teamer. Rigid beliefs caused me to neglect the opportunities to leverage what was right in front of me for learning purposes. When employed, we have access to technologies, training, and people that will make us much more well-rounded and better Red Teamers. While wasting time fighting what I thought shouldn't be part of my job, I missed learning opportunities. My advice is to embrace the learning opportunities right in front of you fully. Don't let the idea of your perfect job hold you back from learning everything you possibly can from your current role.
 
 * Leverage what's in front of you
 
