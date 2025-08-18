@@ -64,4 +64,4 @@ I completely underestimated the value of taking a course or reading a book. I ha
 * Collecting the data on your own (Informal)
 
 ## Next Steps
-The next part in this series is [Maximum Compromise in your Red Teaming Career](https://github.com/sneakerhax/Posts/blob/main/posts/Maximum_Compromise_in_your_Red_Teaming_career.md)
+The next part in this series is [Maximum Compromise in your Red Teaming Career](https://github.com/sneakerhax/Posts/blob/main/posts/Maximum_Compromise_in_your_Red_Team_career.md)
