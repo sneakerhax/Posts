@@ -1,4 +1,4 @@
-# Privilege Escalation in your Red Teaming Career
+# Privilege Escalation in your Red Team Career
 
 If you go to any search engine and type in "breaking into Red Teaming" or "how to get started in Red Teaming," you will find pages and pages of results. However, you rarely see articles about improving your skills once you become employed in Red Teaming. I felt stuck at intermediate for many years. I wasn't a lousy Red Teamer, but I lacked some habits and direction that would allow me to advance any further. Over the past few years, I've learned techniques that have greatly improved my personal and professional development. These can also help you balance your life, avoid burnout, and ultimately enable you to accomplish more in less time.
 
