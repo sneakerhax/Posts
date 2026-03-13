@@ -1,0 +1,26 @@
+# Persistence in your Red Team Career
+
+A decade in Red Teaming can change a lot about how you think. When I first dreamed of being a Red Teamer, nothing mattered more than having hands-on-keyboard skills ready to go at a moment's notice. As I've moved through three Fortune 500 software companies, received promotions at various levels, and built a Red Team from scratch, my ideas about how to present the impact of Red Teaming have changed immensely. Maturing my perspective and always being willing to adapt have helped me build my career. I'm going to share five concepts that have allowed me to persist as a Red Teamer for the past ten years.
+
+## Previous post in this series
+* [Privilege_Escalation_in_your_Red_Team_career](https://github.com/sneakerhax/Posts/blob/main/posts/Privilege_Escalation_in_your_Red_Team_career.md)
+
+## Understanding the business
+
+If you don't work for a security company, then Red Teaming is not a revenue-generating function of the business. That said, not doing Red Teaming can lead to public breaches, poor perceptions of your investment in security, and increased damage if responders are underprepared. Many Red Teamers (myself included) historically think about impact in terms of successfully achieving objectives. For internal Red Teams, that is just the first step. Translating those findings into something that measurably reduces risk for the business or helps protect revenue is a tough challenge. Your main selling point is that implementing your recommendations is far cheaper than not addressing the risk. Understanding how to talk to product, service, and infrastructure teams—whose priority is building revenue-generating features—and asking them to pause is a skill that takes empathy, patience, and thoughtfulness. Thinking in terms of affected users, lost revenue, and overall business impact is the language they understand.
+
+## Be flexible with your ideas
+
+Red Teamers tend to have hard-and-fast definitions of what Red Teaming is. However, in my opinion, after reading everything I can find on Red Teaming, the broader philosophy is much wider than many realize. In large enterprises, as your capability matures, leadership expects greater outcomes and clearer, more measurable results. Simply compromising the environment was once the battering ram needed to get things done. Nowadays you need to be able to tell a strong story with data about why your outcomes matter. Priorities shift often and not every issue will be addressed. This is a difficult pill to swallow for many Red Teamers; however, it's the reality of working in security. You have to be flexible in your ideas about what Red Teaming is and how it can be used to drive change. If you can't adapt to the changing landscape of security, then you will struggle to persist in your career.
+
+## Scale your expertise
+
+As you mature in your career, you will find that you have a lot of knowledge and experience that can be shared with others. This is a great opportunity to scale your expertise and have a greater impact on the organization. Sharing your knowledge through writing, speaking, and mentoring can help you build a reputation as a thought leader in the field. It also allows you to help others grow and develop their skills, which can lead to a stronger security culture within the organization. Scaling your expertise is not only beneficial for others but also for your own career growth, as it opens up new opportunities and allows you to have a greater impact on the industry as a whole. This can also happen through reviewing architectural designs, providing feedback on security controls, and participating in threat modeling exercises. By sharing your expertise, you can help others understand the importance of security and how to implement it effectively.
+
+## Upleveling my definition of Technical
+
+When I first started in Red Teaming, I thought that being technical only meant being able to write exploits, create custom tools, and have a deep understanding of the inner workings of operating systems and networks. While those skills are still important, I've come to realize that being technical also means being able to understand and communicate complex technical concepts to non-technical stakeholders. It means being able to analyze data and draw meaningful conclusions from it. It means being able to think critically and creatively about how to approach problems. Being technical is not just about having hands-on-keyboard skills; it's about being able to use those skills to drive impact and change at scale within the organization.
+
+## Building partnerships
+
+Red Teaming is not a solo endeavor. Building partnerships with other teams within the organization is crucial for success. This includes working closely with the Blue Team, the incident response team, and the risk management team. Building strong relationships with these teams can help you better understand their needs and priorities, which lets you tailor your Red Teaming efforts to be more effective. It also enables collaboration on solutions to the issues you identify, which can lead to faster remediation and a stronger security posture overall. Building partnerships is not only beneficial for your Red Teaming efforts but also for your own career growth, as it allows you to expand your network and learn from others in the industry.
