@@ -19,7 +19,7 @@ Red Teamers tend to have hard-and-fast definitions of what Red Teaming is. Howev
 
 ## Scale your expertise
 
-As you mature in your career, you will find that you have a lot of knowledge and experience that can be shared with others. This is a great opportunity to scale your expertise and have a greater impact on the organization. Sharing your knowledge through writing, speaking, and mentoring can help you build a reputation as a thought leader in the field. It also allows you to help others grow and develop their skills, which can lead to a stronger security culture within the organization. Scaling your expertise is not only beneficial for others but also for your own career growth, as it opens up new opportunities and allows you to have a greater impact on the industry as a whole.
+As you mature in your career, you will find that you have a lot of knowledge and experience that can be shared with others. This is a great opportunity to scale your expertise and have a greater impact on the organization. Sharing your knowledge through writing, speaking, and mentoring can help you build a reputation in the field. It also allows you to help others grow and develop their skills, which can lead to a stronger security culture within the organization. Scaling your expertise is not only beneficial for others but also for your own career growth, as it opens up new opportunities and allows you to have a greater impact on the industry as a whole.
 
 ## Upleveling my definition of Technical
 
