@@ -2,8 +2,12 @@
 
 A decade in Red Teaming can change a lot about how you think. When I first dreamed of being a Red Teamer, nothing mattered more than having hands-on-keyboard skills ready to go at a moment's notice. As I've moved through three Fortune 500 software companies, received promotions at various levels, and built a Red Team from scratch, my ideas about how to present the impact of Red Teaming have changed immensely. Maturing my perspective and always being willing to adapt have helped me build my career. I'm going to share five concepts that have allowed me to persist as a Red Teamer for the past ten years.
 
-## Previous post in this series
-* [Privilege_Escalation_in_your_Red_Team_career](https://github.com/sneakerhax/Posts/blob/main/posts/Privilege_Escalation_in_your_Red_Team_career.md)
+## Previous posts in this series
+
+Before reading this post, consider reading the following:
+* [Broken Into Red Teaming](https://github.com/sneakerhax/Posts/blob/main/posts/Broken_into_Red_Teaming.md)
+* [Privilege Escalation in your Red Team Career](https://github.com/sneakerhax/Posts/blob/main/posts/Privilege_Escalation_in_your_Red_Team_career.md)
+* [Maximum Compromise in your Red Team career](https://github.com/sneakerhax/Posts/blob/main/posts/Maximum_Compromise_in_your_Red_Team_career.md)
 
 ## Understanding the business
 
