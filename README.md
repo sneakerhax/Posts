@@ -1,5 +1,5 @@
 # Posts
-Posts about different offensive security topics
+Posts about different Red Team topics
 
  [![Twitter](https://img.shields.io/badge/twitter-sneakerhax-38A1F3?logo=twitter)](https://twitter.com/sneakerhax)
  
