@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+  <defs>
+    <style>
+      text { font-family: 'SF Mono', 'Courier New', monospace; }
+    </style>
+    <clipPath id="window-clip">
+      <rect x="20" y="20" width="860" height="560" rx="12"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="600" rx="12" fill="#1a0a0a"/>
+
+  <!-- Window -->
+  <rect x="20" y="20" width="860" height="560" rx="12" fill="#120505" stroke="#2a0a0a" stroke-width="1"/>
+
+  <!-- Titlebar -->
+  <rect x="20" y="20" width="860" height="44" rx="12" fill="#0e0404"/>
+  <rect x="20" y="44" width="860" height="20" fill="#0e0404"/>
+
+  <!-- Traffic light dots -->
+  <circle cx="54" cy="42" r="7" fill="#ff5f57"/>
+  <circle cx="76" cy="42" r="7" fill="#febc2e"/>
+  <circle cx="98" cy="42" r="7" fill="#28c840"/>
+
+  <!-- Window title -->
+  <text x="450" y="47" text-anchor="middle" fill="#c0504a" font-size="14" letter-spacing="1">Reasons to write your own C2</text>
+
+  <!-- ─── Card 1 ─── -->
+  <rect x="55" y="80" width="790" height="130" rx="14" fill="#1c0808" stroke="#3a1010" stroke-width="1.5"/>
+  <!-- Shield icon -->
+  <path d="M120 100 L152 113 L152 130 C152 148 138 162 120 168 C102 162 88 148 88 130 L88 113 Z"
+        fill="none" stroke="#e05050" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Card 1 text -->
+  <text x="185" y="130" fill="#f0f0f0" font-size="18" font-weight="bold">1. Evading EDR and AV software</text>
+  <text x="185" y="158" fill="#c0504a" font-size="14">Bypass endpoint detection &amp; antivirus controls</text>
+  <text x="185" y="178" fill="#c0504a" font-size="14">to execute payloads undetected</text>
+
+  <!-- ─── Card 2 ─── -->
+  <rect x="55" y="235" width="790" height="130" rx="14" fill="#1c0808" stroke="#3a1010" stroke-width="1.5"/>
+  <!-- Terminal icon: screen/window outline -->
+  <rect x="82" y="262" width="80" height="58" rx="5"
+        fill="none" stroke="#e05050" stroke-width="2.5"/>
+  <!-- Terminal bottom stand -->
+  <line x1="108" y1="320" x2="108" y2="332" stroke="#e05050" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="136" y1="320" x2="136" y2="332" stroke="#e05050" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="104" y1="332" x2="140" y2="332" stroke="#e05050" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Terminal prompt: > -->
+  <polyline points="90,284 100,291 90,298"
+            fill="none" stroke="#e05050" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Terminal cursor: blinking underscore -->
+  <line x1="104" y1="298" x2="118" y2="298" stroke="#e05050" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Card 2 text -->
+  <text x="185" y="285" fill="#f0f0f0" font-size="18" font-weight="bold">2. Write custom functionality</text>
+  <text x="185" y="313" fill="#c0504a" font-size="14">Build bespoke tooling tailored to</text>
+  <text x="185" y="333" fill="#c0504a" font-size="14">specific Red Team exercise objectives</text>
+
+  <!-- ─── Card 3 ─── -->
+  <rect x="55" y="390" width="790" height="145" rx="14" fill="#1c0808" stroke="#3a1010" stroke-width="1.5"/>
+  <!-- Trending up icon -->
+  <polyline points="82,468 104,446 122,458 152,428"
+            fill="none" stroke="#e05050" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="138,428 152,428 152,442"
+            fill="none" stroke="#e05050" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Card 3 text -->
+  <text x="185" y="440" fill="#f0f0f0" font-size="18" font-weight="bold">3. Grow knowledge &amp; expertise</text>
+  <text x="185" y="468" fill="#c0504a" font-size="14">Deepen your understanding of Red Teaming</text>
+  <text x="185" y="488" fill="#c0504a" font-size="14">tradecraft, techniques &amp; tooling</text>
+</svg>

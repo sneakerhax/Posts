@@ -4,7 +4,7 @@ I am sharing a bug that is far from complicated but drives home the point that a
 
 My devices, such as my iPhone and iPad, have names that can trigger XSS. I achieve this by naming the device some XSS payload, such as the simple one found below:
 
-![alt text](.img/Amazon%20-%201%20click%20XSS%20iphone%20payload.png)
+![iPhone Payload](.img/Amazon_1_click_XSS/iphone_payload.png)
 
 My XSS payload device names have triggered XSS in different places, including notification software, routers, and in this case, Amazon. The bug triggers when software has a webpage that lists devices. In the case of Amazon, the XSS triggers when accessing the one-click devices page. The bug was reported through email, as seen in the next section.
 
@@ -26,9 +26,9 @@ The device names listed under 1-Click Status are not sanitized
 POC:
 My phone name is <script>alert(1)</script>, and once this is loaded into the 1-Click Status, an alert window appears with the number 1
 
-![alt text](.img/Amazon%20-%201%20click%20XSS%20POC.png)
+![POC](.img/Amazon_1_click_XSS/POC.png)
 
-![alt text](.img/Amazon%20-%201%20click%20XSS%20browser%20console.png)
+![Browser Console](.img/Amazon_1_click_XSS/browser_console.png)
 
 If you need additional information, please let me know.
 
@@ -40,13 +40,13 @@ Justin
 
 Later, I found this could be triggered from a mobile phone, as seen in the example below. I reported to Amazon on August 19th, 2017:
 
-![alt text](.img/Amazon%20-%201%20click%20XSS%20mobile%20POC.png)
+![Mobile POC](.img/Amazon_1_click_XSS/mobile_POC.png)
 
 ## Fix implemantation
 
 Amazon fixed this issue by adding output encoding to the device listing. Additionally, they have moved the 1-click device listing to a dedicated page under Your Account -> 1-Click settings -> Manager 1-Click for your devices:
 
-![alt text](.img/Amazon%20-%201%20click%20XSS%20-%20fix.png)
+![alt text](.img/Amazon_1_click_XSS/fix.png)
 
 ## Conclusion
 
