@@ -5,6 +5,7 @@ Posts about different offensive security topics
  
  ## Posts
 
+* [A Red Teamer's Guide to Bulding Your Own C2](https://github.com/sneakerhax/Posts/blob/main/posts/A_Red_Teamers_Guide_to_Building_Your_Own_C2.md) - The fundamentals of building your own C2 for Red Teaming
 * [Broken into Red Teaming](https://github.com/sneakerhax/Posts/blob/main/posts/Broken_into_Red_Teaming.md) - Breaking into the field of Offensive Security and flawed advice
 * [Privilege Esclation in your Red Team Career](https://github.com/sneakerhax/Posts/blob/main/posts/Privilege_Escalation_in_your_Red_Team_career.md) - Advancing in your Offensive Security Career
 * [Maximum Compromise in your Red_Team Career](https://github.com/sneakerhax/Posts/blob/main/posts/Maximum_Compromise_in_your_Red_Team_career.md) - The principals of being a principal in Offensive Security
