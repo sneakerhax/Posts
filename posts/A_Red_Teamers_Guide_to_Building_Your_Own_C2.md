@@ -67,22 +67,23 @@ The term "Command and Control" highlights the goal of C2 software. In recent yea
 Developing your own C2 for Red Teaming purposes has become a rite of passage similar to how writing your first stack overflow was a rite of passage for penetration testers in the past. A recent trend I'm noticing is that most Red Teamers I interview (senior Red Teamers) have some form of C2 framework they have developed or have been on teams that develop their own C2. At first, developing your own C2 can seem overwhelming, but I can assure you it's very achievable, and the skill will serve you well.
 
 ```
-					+-----------------------------------------------------------------------+
-					|                    Reasons to Write Your Own C2                       |
-					+-----------------------------------------------------------------------+
-					| 1. Evading EDR and AV software                                        |
-					|    Bypass endpoint detection and antivirus controls                   |
-					|    to execute payloads undetected                                     |
-					+-----------------------------------------------------------------------+
-					| 2. Write custom functionality                                         |
-					|    Build bespoke tooling tailored to                                  |
-					|    specific Red Team exercise objectives                              |
-					+-----------------------------------------------------------------------+
-					| 3. Grow knowledge and expertise                                       |
-					|    Deepen your understanding of Red Teaming                           |
-					|    tradecraft, techniques, and tooling                                |
-					+-----------------------------------------------------------------------+
++-----------------------------------------------------------------------+
+|                    Reasons to Write Your Own C2                       |
++-----------------------------------------------------------------------+
+| 1. Evading EDR and AV software                                        |
+|    Bypass endpoint detection and antivirus controls                   |
+|    to execute payloads undetected                                     |
++-----------------------------------------------------------------------+
+| 2. Write custom functionality                                         |
+|    Build bespoke tooling tailored to                                  |
+|    specific Red Team exercise objectives                              |
++-----------------------------------------------------------------------+
+| 3. Grow knowledge and expertise                                       |
+|    Deepen your understanding of Red Teaming                           |
+|    tradecraft, techniques, and tooling                                |
++-----------------------------------------------------------------------+
 ```
+
 
 ## Breaking Down C2
 
@@ -188,21 +189,21 @@ Further examples of basic functionality such as [host information](https://githu
 The inevitable questions arise... What is the best language for C2 software? I don't think there is any one answer, but my current choice is Golang and Python. Python is best used on the server side for its simplicity and readability. You can also leverage frameworks in the community such as [FastAPI](https://fastapi.tiangolo.com/) for high-performance server-side code. For the client, I like to use Golang. My reasons for using Golang for the client are simple. Golang can be written once (as long as you don't directly call OS APIs) and cross-compiled for multiple operating systems. You can rapidly prototype new ideas because it's simple to write after an initial learning curve, and managing packages (modules) is easy and organized, creating a single binary (although sometimes a large one).
 
 ```
-					+-----------------------------------------------------------------------+
-					|                        Why use Golang for C2?                         |
-					+-----------------------------------------------------------------------+
-					| 1. Cross-compile                                                      |
-					|    one payload, all targets (windows / linux / macos)                 |
-					|    example: GOOS=linux GOARCH=amd64 go build                          |
-					+-----------------------------------------------------------------------+
-					| 2. Rapid prototype                                                    |
-					|    simple syntax, fast iteration                                      |
-					|    quickly build and test C2 ideas                                    |
-					+-----------------------------------------------------------------------+
-					| 3. Module management                                                  |
-					|    versioned, organized imports with go.mod                           |
-					|    e.g., net/http, crypto, os/exec                                    |
-					+-----------------------------------------------------------------------+
++-----------------------------------------------------------------------+
+|                        Why use Golang for C2?                         |
++-----------------------------------------------------------------------+
+| 1. Cross-compile                                                      |
+|    one payload, all targets (windows / linux / macos)                 |
+|    example: GOOS=linux GOARCH=amd64 go build                          |
++-----------------------------------------------------------------------+
+| 2. Rapid prototype                                                    |
+|    simple syntax, fast iteration                                      |
+|    quickly build and test C2 ideas                                    |
++-----------------------------------------------------------------------+
+| 3. Module management                                                  |
+|    versioned, organized imports with go.mod                           |
+|    e.g., net/http, crypto, os/exec                                    |
++-----------------------------------------------------------------------+
 ```
 
 Any language can be used for writing C2, and you should choose the language that makes sense for you. For example, if running C# in your environment is much less suspicious and blends in nicely, use C#. There are many open-source C2 software written in nearly every language that can be found online and can provide you with examples. Once you determine which language to write your C2 in, you will be able to find patterns for nearly any feature you want to design.
