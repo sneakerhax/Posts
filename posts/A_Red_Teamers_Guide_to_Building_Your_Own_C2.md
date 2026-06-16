@@ -35,7 +35,7 @@ The term "Command and Control" highlights the goal of C2 software. In recent yea
                         v
 +----------------------------------------------+
 |          1. Discover vulnerability           |
-|     Recon, scanning, phishing                |
+|          Recon, scanning, phishing           |
 +----------------------------------------------+
                         |
                         v
