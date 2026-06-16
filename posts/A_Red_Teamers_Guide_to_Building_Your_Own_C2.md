@@ -26,47 +26,45 @@ In this example, the core components (which I will talk about later) are leverag
 
 The term "Command and Control" highlights the goal of C2 software. In recent years, penetration testing has primarily focused on scoped testing that has an objective of finding the most vulnerabilities (although in the past, this line was blurred, especially in the early years of Red Teams). Red Teams, on the other hand, can use a vulnerability as an initial foothold, but it's only the first step in positioning themselves to carry out their objective. Once a Red Teamer discovers a vulnerability, the next thing they want to achieve is to exploit it and control that system long-term, even if the vulnerability that allowed them to gain the initial foothold is patched afterwards. At this stage, you want to deploy your command and control software to achieve this long-term access.
 
-```
-								+----------------------------------------------+
-								|          Red Team Operation Workflow         |
-								+----------------------------------------------+
-														|
-														v
-								+----------------------------------------------+
-								|          1. Discover vulnerability           |
-								|     Recon, scanning, social engineering      |
-								+----------------------------------------------+
-														|
-														v
-								+----------------------------------------------+      
-								|           2. Exploit the system              |
-								|       Gain initial foothold + access         |
-								+----------------------------------------------+
-														|
-														v
-								+----------------------------------------------+
-								|             3. Deploy C2 software            |
-								|        Establish command and control         |
-								+----------------------------------------------+
-														|
-														v
-								+----------------------------------------------+
-								|           4. Maintain persistence            |
-								|       Survive patching of initial vuln       |
-								+----------------------------------------------+
-														|
-														v
-								+----------------------------------------------+
-								|           5. Achieve the objective           |
-								|      Data exfil, lateral movement, etc.      |
-								+----------------------------------------------+
-```
+                        +----------------------------------------------+
+                        |          Red Team Operation Workflow         |
+                        +----------------------------------------------+
+                                               |
+                                               v
+                        +----------------------------------------------+
+                        |          1. Discover vulnerability           |
+                        |     Recon, scanning, social engineering      |
+                        +----------------------------------------------+
+                                               |
+                                               v
+                        +----------------------------------------------+      
+                        |           2. Exploit the system              |
+                        |       Gain initial foothold + access         |
+                        +----------------------------------------------+
+                                               |
+                                               v
+                        +----------------------------------------------+
+                        |             3. Deploy C2 software            |
+                        |        Establish command and control         |
+                        +----------------------------------------------+
+                                               |
+                                               v
+                        +----------------------------------------------+
+                        |           4. Maintain persistence            |
+                        |       Survive patching of initial vuln       |
+                        +----------------------------------------------+
+                                               |
+                                               v
+                        +----------------------------------------------+
+                        |           5. Achieve the objective           |
+                        |      Data exfil, lateral movement, etc.      |
+                        +----------------------------------------------+
+
 
 ## Why Write Your Own C2?
 
 Developing your own C2 for Red Teaming purposes has become a rite of passage similar to how writing your first stack overflow was a rite of passage for penetration testers in the past. A recent trend I'm noticing is that most Red Teamers I interview (senior Red Teamers) have some form of C2 framework they have developed or have been on teams that develop their own C2. At first, developing your own C2 can seem overwhelming, but I can assure you it's very achievable, and the skill will serve you well.
 
-```
 +-----------------------------------------------------------------------+
 |                    Reasons to Write Your Own C2                       |
 +-----------------------------------------------------------------------+
@@ -82,8 +80,6 @@ Developing your own C2 for Red Teaming purposes has become a rite of passage sim
 |    Deepen your understanding of Red Teaming                           |
 |    tradecraft, techniques, and tooling                                |
 +-----------------------------------------------------------------------+
-```
-
 
 ## Breaking Down C2
 
@@ -188,7 +184,6 @@ Further examples of basic functionality such as [host information](https://githu
 
 The inevitable questions arise... What is the best language for C2 software? I don't think there is any one answer, but my current choice is Golang and Python. Python is best used on the server side for its simplicity and readability. You can also leverage frameworks in the community such as [FastAPI](https://fastapi.tiangolo.com/) for high-performance server-side code. For the client, I like to use Golang. My reasons for using Golang for the client are simple. Golang can be written once (as long as you don't directly call OS APIs) and cross-compiled for multiple operating systems. You can rapidly prototype new ideas because it's simple to write after an initial learning curve, and managing packages (modules) is easy and organized, creating a single binary (although sometimes a large one).
 
-```
 +-----------------------------------------------------------------------+
 |                        Why use Golang for C2?                         |
 +-----------------------------------------------------------------------+
@@ -204,7 +199,6 @@ The inevitable questions arise... What is the best language for C2 software? I d
 |    versioned, organized imports with go.mod                           |
 |    e.g., net/http, crypto, os/exec                                    |
 +-----------------------------------------------------------------------+
-```
 
 Any language can be used for writing C2, and you should choose the language that makes sense for you. For example, if running C# in your environment is much less suspicious and blends in nicely, use C#. There are many open-source C2 software written in nearly every language that can be found online and can provide you with examples. Once you determine which language to write your C2 in, you will be able to find patterns for nearly any feature you want to design.
 
