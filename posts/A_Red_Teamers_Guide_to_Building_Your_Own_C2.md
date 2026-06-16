@@ -65,6 +65,7 @@ The term "Command and Control" highlights the goal of C2 software. In recent yea
 
 Developing your own C2 for Red Teaming purposes has become a rite of passage similar to how writing your first stack overflow was a rite of passage for penetration testers in the past. A recent trend I'm noticing is that most Red Teamers I interview (senior Red Teamers) have some form of C2 framework they have developed or have been on teams that develop their own C2. At first, developing your own C2 can seem overwhelming, but I can assure you it's very achievable, and the skill will serve you well.
 
+```
 +-----------------------------------------------------------------------+
 |                    Reasons to Write Your Own C2                       |
 +-----------------------------------------------------------------------+
@@ -80,6 +81,7 @@ Developing your own C2 for Red Teaming purposes has become a rite of passage sim
 |    Deepen your understanding of Red Teaming                           |
 |    tradecraft, techniques, and tooling                                |
 +-----------------------------------------------------------------------+
+```
 
 ## Breaking Down C2
 
