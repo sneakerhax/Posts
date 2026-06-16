@@ -25,36 +25,37 @@ In this example, the core components (which I will talk about later) are leverag
 ## What is C2 (Command and Control)?
 
 The term "Command and Control" highlights the goal of C2 software. In recent years, penetration testing has primarily focused on scoped testing that has an objective of finding the most vulnerabilities (although in the past, this line was blurred, especially in the early years of Red Teams). Red Teams, on the other hand, can use a vulnerability as an initial foothold, but it's only the first step in positioning themselves to carry out their objective. Once a Red Teamer discovers a vulnerability, the next thing they want to achieve is to exploit it and control that system long-term, even if the vulnerability that allowed them to gain the initial foothold is patched afterwards. At this stage, you want to deploy your command and control software to achieve this long-term access.
+
 ```
 +----------------------------------------------+
 |          Red Team Operation Workflow         |
 +----------------------------------------------+
-					   |
-					   v
+                        |
+                        v
 +----------------------------------------------+
 |          1. Discover vulnerability           |
-|     Recon, scanning, social engineering      |
+|     Recon, scanning, phishing                |
 +----------------------------------------------+
-					   |
-					   v
+                        |
+                        v
 +----------------------------------------------+      
 |           2. Exploit the system              |
 |       Gain initial foothold + access         |
 +----------------------------------------------+
-					   |
-					   v
+                        |
+                        v
 +----------------------------------------------+
 |             3. Deploy C2 software            |
 |        Establish command and control         |
 +----------------------------------------------+
-					   |
-					   v
+                        |
+                        v
 +----------------------------------------------+
 |           4. Maintain persistence            |
 |       Survive patching of initial vuln       |
 +----------------------------------------------+
-					   |
-					   v
+                        |
+                        v
 +----------------------------------------------+
 |           5. Achieve the objective           |
 |      Data exfil, lateral movement, etc.      |
