@@ -1,4 +1,4 @@
-# A Red Teamer's Guide to Building Your Own C2
+hi# A Red Teamer's Guide to Building Your Own C2
 
 C2, or Command and Control, is a useful tool for maintaining access to compromised systems during a Red Team operation. C2 also allows you to run commands to collect information, advance your attack path, and ultimately reach your objectives. I started writing my own C2 at the end of 2020 because it saved me time and helped me solve a problem I was facing. It ended up being a fulfilling journey and has proved infinitely useful in my day-to-day work or commodity (purchasable C2 frameworks) are rapidly added to signature databases and globally distributed by AV and EDR vendors. Although these tools are feature-rich and convenient, they also leave you with the burden of evading AV and EDR software. I researched this topic for a period of time to find that even when I was able to evade these detection software, it was short-lived. I discovered that creating custom C2 for my use case was a worthwhile alternative and a better investment of my time.
 
@@ -137,7 +137,7 @@ Once you understand these core concepts, your imagination is the only limitation
 ### Interesting C2 examples:
 * [C2 payloads with YouTube anyone?](https://x.com/sneakerhax/status/1544567886995329024?s=20)
 * [Ngrok Wget Execute](https://github.com/sneakerhax/C2PE/blob/main/Command_and_Control/wget_ngrok_ex/README.md)
-* [Discord callbacks](https://github.com/sneakerhax/C2PE/blob/main/Command_and_Control/discord/discord.go)
+* [Discord callbacks](https://github.com/sneakerhax/C2PE/blob/main/Command_and_Control/async_ex_to_discord/discord/discord.go)
 
 
 ## Beyond the basics of C2
