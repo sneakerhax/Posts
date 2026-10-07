@@ -1,4 +1,4 @@
-hi# A Red Teamer's Guide to Building Your Own C2
+# A Red Teamer's Guide to Building Your Own C2
 
 C2, or Command and Control, is a useful tool for maintaining access to compromised systems during a Red Team operation. C2 also allows you to run commands to collect information, advance your attack path, and ultimately reach your objectives. I started writing my own C2 at the end of 2020 because it saved me time and helped me solve a problem I was facing. It ended up being a fulfilling journey and has proved infinitely useful in my day-to-day work or commodity (purchasable C2 frameworks) are rapidly added to signature databases and globally distributed by AV and EDR vendors. Although these tools are feature-rich and convenient, they also leave you with the burden of evading AV and EDR software. I researched this topic for a period of time to find that even when I was able to evade these detection software, it was short-lived. I discovered that creating custom C2 for my use case was a worthwhile alternative and a better investment of my time.
 
@@ -214,9 +214,9 @@ Any language can be used for writing C2, and you should choose the language that
 
 ## Concluding our discussion on writing your own C2
 
-I hope you're now convinced of the value of writing your own C2. It can feel intimidating at first, I know, but I assure you that you can write one if you put the time in. AI is, of course, widely available, but no experience will be as fulfilling a learning experience as writing it yourself (and maybe enlisting a bit of help from AI). If you fight through the conceptual tough spots, you can up your game as a Red Teamer by mastering this important skill.
+I hope you're now convinced of the value of writing your own C2. It can feel intimidating at first, I know, but I assure you that you can write one if you put the time in. AI is, of course, widely available, but no experience will be as fulfilling as writing it yourself (and maybe enlisting a bit of help from AI). If you fight through the conceptual tough spots, you can up your game as a Red Teamer by mastering this important skill.
 
 ### A few considerations before starting:
-* If you post your C2 online, it will likely be signatured by AV and EDR software, if it's widely used.
+* If you post your C2 online, it will likely be signatured by AV and EDR vendors, if it's widely used.
 * Reviewing other C2 frameworks before starting is a good idea, but don't hesitate to start writing code.
 * Avoid letting AI create large parts of your code. You will miss important lessons if you don't understand the full context of your codebase.
